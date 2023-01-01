@@ -1,0 +1,1329 @@
+Airline,Source,Destination,Duration,Total stops,Date,Departure time,Arrival time,Price
+Emirates,TLV,BKK,13u 55m ,1 stop ,2023-02-10,12:40,7:35,€ 475 
+Royal Jordanian,TLV,BKK,9u 55m ,1 stop ,2023-02-10,23:30,14:25,€ 532 
+Meerdere maatschappijen,TLV,BKK,37u 45m ,3 stops ,2023-02-10,9:45,4:30,€ 269 
+Emirates,TLV,BKK,13u 55m ,1 stop ,2023-02-10,12:40,7:35,€ 460 
+"Wizz Air, Salam Air",TLV,BKK,15u 45m ,2 stops ,2023-02-10,9:45,6:30,€ 391 
+Royal Jordanian,TLV,BKK,15u 40m ,1 stop ,2023-02-10,17:45,14:25,€ 447 
+Emirates,TLV,BKK,14u 45m ,1 stop ,2023-02-10,11:50,7:35,€ 460 
+Ethiopian Air,TLV,BKK,22u 40m ,1 stop ,2023-02-10,9:00,12:40,€ 492 
+Emirates,TLV,BKK,13u 55m ,1 stop ,2023-02-10,23:45,18:40,€ 501 
+"Wizz Air, IndiGo",TLV,BKK,23u 50m ,2 stops ,2023-02-10,9:45,14:35,€ 317 
+"Wizz Air Abu Dhabi, GoFirst",TLV,BKK,22u 15m ,2 stops ,2023-02-10,9:45,13:00,€ 334 
+"Wizz Air Abu Dhabi, GoFirst",TLV,BKK,20u 40m ,2 stops ,2023-02-10,9:45,11:25,€ 344 
+"Wizz Air Abu Dhabi, Salam Air",TLV,BKK,15u 45m ,2 stops ,2023-02-10,9:45,6:30,€ 422 
+Turkish Airlines,TLV,BKK,13u 50m ,1 stop ,2023-02-10,15:20,10:10,€ 810 
+Meerdere maatschappijen,TLV,BKK,23u 50m ,2 stops ,2023-02-10,9:45,14:35,€ 327 
+Meerdere maatschappijen,TLV,BKK,20u 40m ,3 stops ,2023-02-10,9:45,11:25,€ 377 
+"EL AL, Vistara",TLV,BKK,18u 55m ,2 stops ,2023-02-10,13:40,13:35,€ 420 
+Emirates,TLV,BKK,13u 55m ,1 stop ,2023-02-11,12:40,7:35,€ 475 
+Royal Jordanian,TLV,BKK,9u 55m ,1 stop ,2023-02-11,23:30,14:25,€ 507 
+Meerdere maatschappijen,TLV,BKK,38u 05m ,3 stops ,2023-02-11,9:25,4:30,€ 242 
+Emirates,TLV,BKK,13u 55m ,1 stop ,2023-02-11,12:40,7:35,€ 457 
+Etihad Airways,TLV,BKK,13u 15m ,1 stop ,2023-02-11,13:40,7:55,€ 501 
+Emirates,TLV,BKK,12u 40m ,1 stop ,2023-02-11,18:25,12:05,€ 503 
+Air India,TLV,BKK,16u 10m ,1 stop ,2023-02-11,22:10,19:20,€ 395 
+Emirates,TLV,BKK,14u 45m ,1 stop ,2023-02-11,11:50,7:35,€ 462 
+Emirates,TLV,BKK,13u 35m ,1 stop ,2023-02-11,0:05,18:40,€ 522 
+Emirates,TLV,BKK,13u 20m ,1 stop ,2023-02-11,18:25,12:45,€ 599 
+Emirates,TLV,BKK,19u 15m ,1 stop ,2023-02-11,18:25,18:40,€ 462 
+Emirates,TLV,BKK,16u 40m ,1 stop ,2023-02-11,9:55,7:35,€ 475 
+"Arkia, Kuwait Airways",TLV,BKK,14u 55m ,2 stops ,2023-02-11,6:15,2:10,€ 487 
+Emirates,TLV,BKK,13u 55m ,1 stop ,2023-02-11,23:45,18:40,€ 537 
+EL AL,TLV,BKK,10u 45m ,direct ,2023-02-11,22:30,14:15,€ 761 
+"Wizz Air, GoFirst",TLV,BKK,22u 35m ,2 stops ,2023-02-11,9:25,13:00,€ 297 
+"Wizz Air Abu Dhabi, GoFirst",TLV,BKK,21u 00m ,2 stops ,2023-02-11,9:25,11:25,€ 317 
+Emirates,TLV,BKK,14u 45m ,1 stop ,2023-02-12,11:50,7:35,€ 475 
+Emirates,TLV,BKK,14u 45m ,1 stop ,2023-02-12,11:50,7:35,€ 475 
+Emirates,TLV,BKK,13u 55m ,1 stop ,2023-02-12,23:45,18:40,€ 475 
+EL AL,TLV,BKK,10u 45m ,direct ,2023-02-12,23:05,14:50,€ 514 
+Emirates,TLV,BKK,13u 20m ,1 stop ,2023-02-12,18:25,12:45,€ 559 
+EL AL,TLV,BKK,10u 45m ,direct ,2023-02-12,20:15,12:00,€ 596 
+Emirates,TLV,BKK,25u 50m ,1 stop ,2023-02-12,11:50,18:40,€ 475 
+Gulf Air,TLV,BKK,15u 45m ,1 stop ,2023-02-12,12:10,8:55,€ 496 
+Emirates,TLV,BKK,13u 55m ,1 stop ,2023-02-12,12:40,7:35,€ 517 
+Ethiopian Air,TLV,BKK,22u 40m ,1 stop ,2023-02-12,9:00,12:40,€ 504 
+Emirates,TLV,BKK,13u 35m ,1 stop ,2023-02-12,0:05,18:40,€ 615 
+Thai Airways,TLV,BKK,10u 45m ,direct ,2023-02-12,23:05,14:50,€ 827 
+Ethiopian Air,TLV,BKK,30u 55m ,1 stop ,2023-02-12,0:45,12:40,€ 504 
+Emirates,TLV,BKK,32u 00m ,1 stop ,2023-02-12,23:45,12:45,€ 517 
+Emirates,TLV,BKK,32u 10m ,1 stop ,2023-02-12,18:25,7:35,€ 517 
+Emirates,TLV,BKK,19u 05m ,1 stop ,2023-02-12,12:40,12:45,€ 559 
+Cathay Pacific,TLV,BKK,15u 25m ,1 stop ,2023-02-13,14:15,10:40,€ 527 
+EL AL,TLV,BKK,10u 45m ,direct ,2023-02-13,20:15,12:00,€ 457 
+EL AL,TLV,BKK,10u 45m ,direct ,2023-02-13,23:05,14:50,€ 514 
+Etihad Airways,TLV,BKK,13u 15m ,1 stop ,2023-02-13,13:40,7:55,€ 475 
+Emirates,TLV,BKK,13u 35m ,1 stop ,2023-02-13,0:05,18:40,€ 475 
+Emirates,TLV,BKK,13u 55m ,1 stop ,2023-02-13,12:40,7:35,€ 475 
+Emirates,TLV,BKK,14u 45m ,1 stop ,2023-02-13,11:50,7:35,€ 475 
+Emirates,TLV,BKK,19u 05m ,1 stop ,2023-02-13,12:40,12:45,€ 475 
+Emirates,TLV,BKK,19u 55m ,1 stop ,2023-02-13,11:50,12:45,€ 475 
+Emirates,TLV,BKK,26u 50m ,1 stop ,2023-02-13,23:45,7:35,€ 475 
+Emirates,TLV,BKK,31u 40m ,1 stop ,2023-02-13,0:05,12:45,€ 475 
+Cathay Pacific,TLV,BKK,15u 25m ,1 stop ,2023-02-13,14:15,10:40,€ 527 
+"EL AL, Bangkok Airways",TLV,BKK,13u 50m ,1 stop ,2023-02-13,17:05,11:55,€ 572 
+Thai Airways,TLV,BKK,10u 45m ,direct ,2023-02-13,20:15,12:00,€ 827 
+Emirates,TLV,BKK,25u 50m ,1 stop ,2023-02-13,11:50,18:40,€ 475 
+Emirates,TLV,BKK,32u 10m ,1 stop ,2023-02-13,18:25,7:35,€ 475 
+Emirates,TLV,BKK,14u 45m ,1 stop ,2023-02-14,11:50,7:35,€ 475 
+EL AL,TLV,BKK,10u 45m ,direct ,2023-02-14,20:15,12:00,€ 585 
+"Wizz Air Abu Dhabi, IndiGo",TLV,BKK,37u 35m ,2 stops ,2023-02-14,20:00,14:35,€ 261 
+"EL AL, Salam Air",TLV,BKK,14u 35m ,2 stops ,2023-02-14,12:35,8:10,€ 366 
+Etihad Airways,TLV,BKK,13u 15m ,1 stop ,2023-02-14,13:40,7:55,€ 474 
+Cathay Pacific,TLV,BKK,15u 55m ,1 stop ,2023-02-14,14:20,11:15,€ 504 
+EL AL,TLV,BKK,10u 45m ,direct ,2023-02-14,23:05,14:50,€ 585 
+"Wizz Air Abu Dhabi, GoFirst",TLV,BKK,22u 15m ,2 stops ,2023-02-14,9:45,13:00,€ 314 
+"Wizz Air Abu Dhabi, GoFirst",TLV,BKK,20u 40m ,2 stops ,2023-02-14,9:45,11:25,€ 330 
+"ISRAIR, Salam Air",TLV,BKK,16u 45m ,2 stops ,2023-02-14,10:25,8:10,€ 364 
+Meerdere maatschappijen,TLV,BKK,14u 05m ,2 stops ,2023-02-14,16:20,11:25,€ 402 
+Air India,TLV,BKK,16u 10m ,1 stop ,2023-02-14,22:10,19:20,€ 450 
+Emirates,TLV,BKK,14u 45m ,1 stop ,2023-02-14,11:50,7:35,€ 463 
+Emirates,TLV,BKK,13u 55m ,1 stop ,2023-02-14,12:40,7:35,€ 468 
+Emirates,TLV,BKK,13u 20m ,1 stop ,2023-02-14,18:25,12:45,€ 503 
+"flydubai, Salam Air",TLV,BKK,14u 30m ,2 stops ,2023-02-14,12:40,8:10,€ 403 
+"flydubai, Salam Air",TLV,BKK,17u 15m ,2 stops ,2023-02-14,9:55,8:10,€ 403 
+Emirates,TLV,BKK,13u 55m ,1 stop ,2023-02-15,12:40,7:35,€ 475 
+Etihad Airways,TLV,BKK,16u 50m ,2 stops ,2023-02-15,13:40,11:30,€ 437 
+Etihad Airways,TLV,BKK,13u 15m ,1 stop ,2023-02-15,13:40,7:55,€ 475 
+Emirates,TLV,BKK,13u 55m ,1 stop ,2023-02-15,12:40,7:35,€ 475 
+EL AL,TLV,BKK,10u 45m ,direct ,2023-02-15,23:05,14:50,€ 912 
+Emirates,TLV,BKK,13u 20m ,1 stop ,2023-02-15,18:25,12:45,€ 559 
+Emirates,TLV,BKK,25u 50m ,1 stop ,2023-02-15,11:50,18:40,€ 475 
+Gulf Air,TLV,BKK,19u 25m ,1 stop ,2023-02-15,8:30,8:55,€ 496 
+Ethiopian Air,TLV,BKK,22u 40m ,1 stop ,2023-02-15,9:00,12:40,€ 504 
+Royal Jordanian,TLV,BKK,15u 30m ,1 stop ,2023-02-15,17:55,14:25,€ 531 
+Emirates,TLV,BKK,26u 30m ,1 stop ,2023-02-15,0:05,7:35,€ 475 
+Emirates,TLV,BKK,26u 50m ,1 stop ,2023-02-15,23:45,7:35,€ 475 
+Emirates,TLV,BKK,32u 10m ,1 stop ,2023-02-15,18:25,7:35,€ 475 
+Ethiopian Air,TLV,BKK,30u 55m ,1 stop ,2023-02-15,0:45,12:40,€ 504 
+Emirates,TLV,BKK,32u 00m ,1 stop ,2023-02-15,23:45,12:45,€ 517 
+Emirates,TLV,BKK,19u 05m ,1 stop ,2023-02-15,12:40,12:45,€ 559 
+Emirates,TLV,BKK,14u 45m ,1 stop ,2023-02-16,11:50,7:35,€ 475 
+Emirates,TLV,BKK,13u 20m ,1 stop ,2023-02-16,18:25,12:45,€ 500 
+Meerdere maatschappijen,TLV,BKK,37u 20m ,3 stops ,2023-02-16,10:10,4:30,€ 279 
+EL AL,TLV,BKK,10u 45m ,direct ,2023-02-16,23:00,14:45,€ 665 
+"Wizz Air, IndiGo",TLV,BKK,23u 25m ,2 stops ,2023-02-16,10:10,14:35,€ 287 
+"Wizz Air Abu Dhabi, GoFirst",TLV,BKK,21u 50m ,2 stops ,2023-02-16,10:10,13:00,€ 315 
+"Wizz Air Abu Dhabi, GoFirst",TLV,BKK,20u 15m ,2 stops ,2023-02-16,10:10,11:25,€ 336 
+Meerdere maatschappijen,TLV,BKK,14u 25m ,2 stops ,2023-02-16,17:35,13:00,€ 436 
+Emirates,TLV,BKK,14u 45m ,1 stop ,2023-02-16,11:50,7:35,€ 459 
+Emirates,TLV,BKK,13u 55m ,1 stop ,2023-02-16,12:40,7:35,€ 467 
+Cathay Pacific,TLV,BKK,15u 20m ,1 stop ,2023-02-16,14:20,10:40,€ 506 
+"Wizz Air Abu Dhabi, IndiGo",TLV,BKK,23u 25m ,2 stops ,2023-02-16,10:10,14:35,€ 296 
+Meerdere maatschappijen,TLV,BKK,16u 00m ,2 stops ,2023-02-16,17:35,14:35,€ 423 
+Meerdere maatschappijen,TLV,BKK,15u 40m ,2 stops ,2023-02-16,17:35,14:15,€ 433 
+Emirates,TLV,BKK,19u 55m ,1 stop ,2023-02-16,11:50,12:45,€ 475 
+Cathay Pacific,TLV,BKK,15u 55m ,1 stop ,2023-02-16,14:20,11:15,€ 505 
+Cathay Pacific,TLV,BKK,17u 15m ,1 stop ,2023-02-16,14:20,12:35,€ 505 
+Emirates,TLV,BKK,13u 45m ,1 stop ,2023-02-17,23:55,18:40,€ 475 
+Etihad Airways,TLV,BKK,13u 15m ,1 stop ,2023-02-17,13:40,7:55,€ 475 
+Emirates,TLV,BKK,13u 45m ,1 stop ,2023-02-17,23:55,18:40,€ 475 
+Emirates,TLV,BKK,14u 05m ,1 stop ,2023-02-17,17:00,12:05,€ 517 
+Emirates,TLV,BKK,14u 45m ,1 stop ,2023-02-17,11:50,7:35,€ 475 
+Emirates,TLV,BKK,13u 55m ,1 stop ,2023-02-17,12:40,7:35,€ 517 
+Emirates,TLV,BKK,14u 45m ,1 stop ,2023-02-17,17:00,12:45,€ 517 
+Etihad Airways,TLV,BKK,16u 50m ,2 stops ,2023-02-17,13:40,11:30,€ 475 
+Emirates,TLV,BKK,16u 40m ,1 stop ,2023-02-17,9:55,7:35,€ 517 
+Emirates,TLV,BKK,20u 40m ,1 stop ,2023-02-17,17:00,18:40,€ 475 
+Emirates,TLV,BKK,26u 40m ,1 stop ,2023-02-17,23:55,7:35,€ 475 
+Emirates,TLV,BKK,19u 05m ,1 stop ,2023-02-17,12:40,12:45,€ 517 
+Emirates,TLV,BKK,19u 15m ,1 stop ,2023-02-17,11:50,12:05,€ 517 
+Royal Jordanian,TLV,BKK,15u 40m ,1 stop ,2023-02-17,17:45,14:25,€ 762 
+Royal Jordanian,TLV,BKK,9u 55m ,1 stop ,2023-02-17,23:30,14:25,€ 1885 
+Emirates,TLV,BKK,25u 50m ,1 stop ,2023-02-17,11:50,18:40,€ 475 
+Emirates,TLV,BKK,12u 40m ,1 stop ,2023-02-18,18:25,12:05,€ 475 
+Air India,TLV,BKK,16u 10m ,1 stop ,2023-02-18,22:10,19:20,€ 349 
+Emirates,TLV,BKK,12u 40m ,1 stop ,2023-02-18,18:25,12:05,€ 475 
+Etihad Airways,TLV,BKK,13u 15m ,1 stop ,2023-02-18,13:40,7:55,€ 437 
+EL AL,TLV,BKK,10u 45m ,direct ,2023-02-18,22:30,14:15,€ 774 
+Emirates,TLV,BKK,13u 35m ,1 stop ,2023-02-18,0:05,18:40,€ 475 
+Emirates,TLV,BKK,13u 55m ,1 stop ,2023-02-18,12:40,7:35,€ 475 
+Emirates,TLV,BKK,13u 20m ,1 stop ,2023-02-18,18:25,12:45,€ 517 
+Etihad Airways,TLV,BKK,16u 50m ,2 stops ,2023-02-18,13:40,11:30,€ 437 
+Emirates,TLV,BKK,14u 45m ,1 stop ,2023-02-18,11:50,7:35,€ 475 
+Emirates,TLV,BKK,19u 15m ,1 stop ,2023-02-18,18:25,18:40,€ 475 
+Emirates,TLV,BKK,16u 40m ,1 stop ,2023-02-18,9:55,7:35,€ 475 
+Emirates,TLV,BKK,19u 15m ,1 stop ,2023-02-18,11:50,12:05,€ 475 
+Emirates,TLV,BKK,25u 00m ,1 stop ,2023-02-18,12:40,18:40,€ 475 
+Emirates,TLV,BKK,26u 30m ,1 stop ,2023-02-18,0:05,7:35,€ 475 
+Emirates,TLV,BKK,25u 50m ,1 stop ,2023-02-18,11:50,18:40,€ 475 
+Emirates,TLV,BKK,13u 35m ,1 stop ,2023-02-19,0:05,18:40,€ 475 
+EL AL,TLV,BKK,10u 45m ,direct ,2023-02-19,20:15,12:00,€ 461 
+EL AL,TLV,BKK,10u 45m ,direct ,2023-02-19,23:05,14:50,€ 519 
+Thai Airways,TLV,BKK,10u 45m ,direct ,2023-02-19,20:15,12:00,€ 728 
+Emirates,TLV,BKK,13u 35m ,1 stop ,2023-02-19,0:05,18:40,€ 475 
+Emirates,TLV,BKK,13u 55m ,1 stop ,2023-02-19,23:45,18:40,€ 475 
+Emirates,TLV,BKK,14u 45m ,1 stop ,2023-02-19,11:50,7:35,€ 475 
+Emirates,TLV,BKK,19u 15m ,1 stop ,2023-02-19,18:25,18:40,€ 475 
+Emirates,TLV,BKK,13u 20m ,1 stop ,2023-02-19,18:25,12:45,€ 517 
+Emirates,TLV,BKK,13u 55m ,1 stop ,2023-02-19,12:40,7:35,€ 517 
+Cathay Pacific,TLV,BKK,15u 20m ,1 stop ,2023-02-19,14:20,10:40,€ 527 
+Thai Airways,TLV,BKK,10u 45m ,direct ,2023-02-19,23:05,14:50,€ 938 
+Emirates,TLV,BKK,25u 50m ,1 stop ,2023-02-19,11:50,18:40,€ 475 
+Emirates,TLV,BKK,26u 30m ,1 stop ,2023-02-19,0:05,7:35,€ 475 
+Gulf Air,TLV,BKK,15u 45m ,1 stop ,2023-02-19,12:10,8:55,€ 495 
+Cathay Pacific,TLV,BKK,15u 55m ,1 stop ,2023-02-19,14:20,11:15,€ 527 
+Emirates,TLV,BKK,13u 20m ,1 stop ,2023-02-20,18:25,12:45,€ 475 
+EL AL,TLV,BKK,10u 45m ,direct ,2023-02-20,23:05,14:50,€ 448 
+Meerdere maatschappijen,TLV,BKK,37u 30m ,3 stops ,2023-02-20,10:00,4:30,€ 259 
+Royal Jordanian,TLV,BKK,9u 55m ,1 stop ,2023-02-20,23:30,14:25,€ 455 
+Royal Jordanian,TLV,BKK,15u 30m ,1 stop ,2023-02-20,17:55,14:25,€ 418 
+Emirates,TLV,BKK,13u 20m ,1 stop ,2023-02-20,18:25,12:45,€ 463 
+Emirates,TLV,BKK,14u 45m ,1 stop ,2023-02-20,11:50,7:35,€ 463 
+Emirates,TLV,BKK,13u 35m ,1 stop ,2023-02-20,0:05,18:40,€ 463 
+Emirates,TLV,BKK,13u 55m ,1 stop ,2023-02-20,12:40,7:35,€ 504 
+Cathay Pacific,TLV,BKK,15u 25m ,1 stop ,2023-02-20,14:15,10:40,€ 505 
+Cathay Pacific,TLV,BKK,16u 00m ,1 stop ,2023-02-20,14:15,11:15,€ 505 
+Thai Airways,TLV,BKK,10u 45m ,direct ,2023-02-20,23:05,14:50,€ 710 
+Emirates,TLV,BKK,19u 55m ,1 stop ,2023-02-20,11:50,12:45,€ 463 
+Meerdere maatschappijen,TLV,BKK,14u 55m ,2 stops ,2023-02-20,11:25,7:20,€ 480 
+Meerdere maatschappijen,TLV,BKK,16u 35m ,2 stops ,2023-02-20,11:25,9:00,€ 481 
+Meerdere maatschappijen,TLV,BKK,15u 25m ,2 stops ,2023-02-20,12:35,9:00,€ 491 
+"EL AL, Kuwait Airways",TLV,BKK,15u 10m ,2 stops ,2023-02-20,6:00,2:10,€ 501 
+Emirates,TLV,BKK,13u 20m ,1 stop ,2023-02-21,18:25,12:45,€ 475 
+EL AL,TLV,BKK,10u 45m ,direct ,2023-02-21,20:15,12:00,€ 461 
+Air India,TLV,BKK,16u 10m ,1 stop ,2023-02-21,22:10,19:20,€ 349 
+Etihad Airways,TLV,BKK,13u 15m ,1 stop ,2023-02-21,13:40,7:55,€ 437 
+EL AL,TLV,BKK,10u 45m ,direct ,2023-02-21,23:05,14:50,€ 461 
+Emirates,TLV,BKK,13u 20m ,1 stop ,2023-02-21,18:25,12:45,€ 475 
+Emirates,TLV,BKK,13u 55m ,1 stop ,2023-02-21,12:40,7:35,€ 475 
+Etihad Airways,TLV,BKK,16u 50m ,2 stops ,2023-02-21,13:40,11:30,€ 437 
+Emirates,TLV,BKK,13u 55m ,1 stop ,2023-02-21,23:45,18:40,€ 475 
+Emirates,TLV,BKK,14u 45m ,1 stop ,2023-02-21,11:50,7:35,€ 475 
+Thai Airways,TLV,BKK,10u 45m ,direct ,2023-02-21,20:15,12:00,€ 728 
+Thai Airways,TLV,BKK,10u 45m ,direct ,2023-02-21,23:05,14:50,€ 728 
+Emirates,TLV,BKK,19u 05m ,1 stop ,2023-02-21,12:40,12:45,€ 475 
+Emirates,TLV,BKK,19u 15m ,1 stop ,2023-02-21,11:50,12:05,€ 475 
+Emirates,TLV,BKK,19u 15m ,1 stop ,2023-02-21,18:25,18:40,€ 475 
+Emirates,TLV,BKK,19u 55m ,1 stop ,2023-02-21,11:50,12:45,€ 475 
+Emirates,TLV,BKK,13u 20m ,1 stop ,2023-02-22,18:25,12:45,€ 475 
+Emirates,TLV,BKK,13u 20m ,1 stop ,2023-02-22,18:25,12:45,€ 472 
+"Wizz Air, IndiGo",TLV,BKK,35u 15m ,3 stops ,2023-02-22,22:20,14:35,€ 295 
+Royal Jordanian,TLV,BKK,15u 30m ,1 stop ,2023-02-22,17:55,14:25,€ 421 
+Emirates,TLV,BKK,13u 35m ,1 stop ,2023-02-22,0:05,18:40,€ 472 
+Emirates,TLV,BKK,14u 45m ,1 stop ,2023-02-22,11:50,7:35,€ 472 
+Emirates,TLV,BKK,13u 55m ,1 stop ,2023-02-22,12:40,7:35,€ 510 
+Etihad Airways,TLV,BKK,13u 15m ,1 stop ,2023-02-22,13:40,7:55,€ 555 
+Etihad Airways,TLV,BKK,16u 50m ,2 stops ,2023-02-22,13:40,11:30,€ 415 
+Emirates,TLV,BKK,13u 55m ,1 stop ,2023-02-22,23:45,18:40,€ 472 
+Emirates,TLV,BKK,16u 40m ,1 stop ,2023-02-22,9:55,7:35,€ 472 
+EL AL,TLV,BKK,10u 45m ,direct ,2023-02-22,23:05,14:50,€ 666 
+Royal Jordanian,TLV,BKK,9u 55m ,1 stop ,2023-02-22,23:30,14:25,€ 731 
+"Gulf Air, Thai AirAsia",TLV,BKK,14u 40m ,2 stops ,2023-02-22,8:30,4:10,€ 384 
+Gulf Air,TLV,BKK,19u 25m ,1 stop ,2023-02-22,8:30,8:55,€ 451 
+"Pegasus Airlines, Qatar Airways",TLV,BKK,15u 10m ,2 stops ,2023-02-22,10:25,6:35,€ 568 
+Emirates,TLV,BKK,19u 55m ,1 stop ,2023-02-22,11:50,12:45,€ 472 
+Cathay Pacific,TLV,BKK,15u 20m ,1 stop ,2023-02-23,14:20,10:40,€ 527 
+Emirates,TLV,BKK,13u 20m ,1 stop ,2023-02-23,18:25,12:45,€ 475 
+Emirates,TLV,BKK,13u 55m ,1 stop ,2023-02-23,12:40,7:35,€ 475 
+Etihad Airways,TLV,BKK,13u 15m ,1 stop ,2023-02-23,13:40,7:55,€ 501 
+EL AL,TLV,BKK,10u 45m ,direct ,2023-02-23,23:00,14:45,€ 600 
+Emirates,TLV,BKK,13u 35m ,1 stop ,2023-02-23,0:05,18:40,€ 475 
+Emirates,TLV,BKK,13u 55m ,1 stop ,2023-02-23,23:45,18:40,€ 475 
+Emirates,TLV,BKK,14u 45m ,1 stop ,2023-02-23,11:50,7:35,€ 475 
+Emirates,TLV,BKK,16u 40m ,1 stop ,2023-02-23,9:55,7:35,€ 475 
+Cathay Pacific,TLV,BKK,15u 20m ,1 stop ,2023-02-23,14:20,10:40,€ 527 
+Cathay Pacific,TLV,BKK,15u 55m ,1 stop ,2023-02-23,14:20,11:15,€ 527 
+"Pegasus Airlines, Qatar Airways",TLV,BKK,15u 10m ,2 stops ,2023-02-23,10:25,6:35,€ 549 
+Emirates,TLV,BKK,19u 05m ,1 stop ,2023-02-23,12:40,12:45,€ 475 
+Emirates,TLV,BKK,19u 15m ,1 stop ,2023-02-23,18:25,18:40,€ 475 
+Emirates,TLV,BKK,19u 55m ,1 stop ,2023-02-23,11:50,12:45,€ 475 
+Emirates,TLV,BKK,19u 15m ,1 stop ,2023-02-23,11:50,12:05,€ 517 
+Emirates,TLV,BKK,13u 20m ,1 stop ,2023-02-24,18:25,12:45,€ 475 
+Etihad Airways,TLV,BKK,13u 15m ,1 stop ,2023-02-24,13:40,7:55,€ 437 
+Emirates,TLV,BKK,13u 20m ,1 stop ,2023-02-24,18:25,12:45,€ 475 
+Emirates,TLV,BKK,13u 55m ,1 stop ,2023-02-24,12:40,7:35,€ 475 
+Royal Jordanian,TLV,BKK,15u 40m ,1 stop ,2023-02-24,17:45,14:25,€ 439 
+Emirates,TLV,BKK,13u 35m ,1 stop ,2023-02-24,0:05,18:40,€ 475 
+Emirates,TLV,BKK,13u 55m ,1 stop ,2023-02-24,23:45,18:40,€ 475 
+Emirates,TLV,BKK,14u 45m ,1 stop ,2023-02-24,11:50,7:35,€ 475 
+Etihad Airways,TLV,BKK,16u 50m ,2 stops ,2023-02-24,13:40,11:30,€ 437 
+Emirates,TLV,BKK,16u 40m ,1 stop ,2023-02-24,9:55,7:35,€ 475 
+Emirates,TLV,BKK,19u 15m ,1 stop ,2023-02-24,18:25,18:40,€ 475 
+Emirates,TLV,BKK,19u 55m ,1 stop ,2023-02-24,11:50,12:45,€ 475 
+Emirates,TLV,BKK,19u 05m ,1 stop ,2023-02-24,12:40,12:45,€ 517 
+Emirates,TLV,BKK,19u 15m ,1 stop ,2023-02-24,11:50,12:05,€ 559 
+"Pegasus Airlines, Qatar Airways",TLV,BKK,15u 10m ,2 stops ,2023-02-24,10:25,6:35,€ 753 
+Emirates,TLV,BKK,25u 00m ,1 stop ,2023-02-24,12:40,18:40,€ 475 
+Emirates,TLV,BKK,13u 20m ,1 stop ,2023-02-26,18:25,12:45,€ 475 
+EL AL,TLV,BKK,10u 45m ,direct ,2023-02-26,20:15,12:00,€ 461 
+EL AL,TLV,BKK,10u 45m ,direct ,2023-02-26,23:05,14:50,€ 461 
+Thai Airways,TLV,BKK,10u 45m ,direct ,2023-02-26,20:15,12:00,€ 728 
+Emirates,TLV,BKK,13u 20m ,1 stop ,2023-02-26,18:25,12:45,€ 475 
+Emirates,TLV,BKK,12u 40m ,1 stop ,2023-02-26,18:25,12:05,€ 517 
+Thai Airways,TLV,BKK,10u 45m ,direct ,2023-02-26,23:05,14:50,€ 833 
+Emirates,TLV,BKK,13u 55m ,1 stop ,2023-02-26,23:45,18:40,€ 475 
+Emirates,TLV,BKK,14u 45m ,1 stop ,2023-02-26,11:50,7:35,€ 475 
+Emirates,TLV,BKK,13u 35m ,1 stop ,2023-02-26,0:05,18:40,€ 517 
+Emirates,TLV,BKK,13u 55m ,1 stop ,2023-02-26,12:40,7:35,€ 517 
+Etihad Airways,TLV,BKK,13u 15m ,1 stop ,2023-02-26,13:40,7:55,€ 688 
+Emirates,TLV,BKK,19u 15m ,1 stop ,2023-02-26,18:25,18:40,€ 475 
+Gulf Air,TLV,BKK,15u 45m ,1 stop ,2023-02-26,12:10,8:55,€ 495 
+Emirates,TLV,BKK,16u 40m ,1 stop ,2023-02-26,9:55,7:35,€ 517 
+Cathay Pacific,TLV,BKK,15u 55m ,1 stop ,2023-02-26,14:20,11:15,€ 527 
+Cathay Pacific,TLV,BKK,15u 25m ,1 stop ,2023-02-27,14:15,10:40,€ 527 
+EL AL,TLV,BKK,10u 45m ,direct ,2023-02-27,20:15,12:00,€ 461 
+EL AL,TLV,BKK,10u 45m ,direct ,2023-02-27,23:00,14:45,€ 424 
+Etihad Airways,TLV,BKK,13u 15m ,1 stop ,2023-02-27,13:40,7:55,€ 475 
+Emirates,TLV,BKK,13u 20m ,1 stop ,2023-02-27,18:25,12:45,€ 475 
+Emirates,TLV,BKK,13u 55m ,1 stop ,2023-02-27,12:40,7:35,€ 475 
+Emirates,TLV,BKK,13u 35m ,1 stop ,2023-02-27,0:05,18:40,€ 475 
+Emirates,TLV,BKK,13u 55m ,1 stop ,2023-02-27,23:45,18:40,€ 475 
+Cathay Pacific,TLV,BKK,15u 25m ,1 stop ,2023-02-27,14:15,10:40,€ 527 
+Cathay Pacific,TLV,BKK,16u 00m ,1 stop ,2023-02-27,14:15,11:15,€ 527 
+Etihad Airways,TLV,BKK,16u 50m ,2 stops ,2023-02-27,13:40,11:30,€ 437 
+Emirates,TLV,BKK,16u 40m ,1 stop ,2023-02-27,9:55,7:35,€ 475 
+Emirates,TLV,BKK,19u 05m ,1 stop ,2023-02-27,12:40,12:45,€ 475 
+Emirates,TLV,BKK,19u 15m ,1 stop ,2023-02-27,18:25,18:40,€ 475 
+Emirates,TLV,BKK,19u 55m ,1 stop ,2023-02-27,11:50,12:45,€ 475 
+Gulf Air,TLV,BKK,19u 25m ,1 stop ,2023-02-27,8:30,8:55,€ 505 
+Emirates,TLV,BKK,13u 20m ,1 stop ,2023-02-28,18:25,12:45,€ 475 
+EL AL,TLV,BKK,10u 45m ,direct ,2023-02-28,20:15,12:00,€ 445 
+"Wizz Air Abu Dhabi, IndiGo",TLV,BKK,37u 35m ,2 stops ,2023-02-28,20:00,14:35,€ 271 
+Royal Jordanian,TLV,BKK,9u 55m ,1 stop ,2023-02-28,23:30,14:25,€ 444 
+Etihad Airways,TLV,BKK,13u 15m ,1 stop ,2023-02-28,13:40,7:55,€ 437 
+EL AL,TLV,BKK,10u 45m ,direct ,2023-02-28,23:00,14:45,€ 501 
+Air India,TLV,BKK,16u 10m ,1 stop ,2023-02-28,22:10,19:20,€ 339 
+Emirates,TLV,BKK,13u 20m ,1 stop ,2023-02-28,18:25,12:45,€ 458 
+Emirates,TLV,BKK,13u 35m ,1 stop ,2023-02-28,0:05,18:40,€ 458 
+Emirates,TLV,BKK,13u 55m ,1 stop ,2023-02-28,12:40,7:35,€ 458 
+Emirates,TLV,BKK,13u 55m ,1 stop ,2023-02-28,23:45,18:40,€ 458 
+Emirates,TLV,BKK,14u 45m ,1 stop ,2023-02-28,11:50,7:35,€ 458 
+Emirates,TLV,BKK,12u 40m ,1 stop ,2023-02-28,18:25,12:05,€ 498 
+"EL AL, Salam Air",TLV,BKK,14u 35m ,2 stops ,2023-02-28,12:35,8:10,€ 409 
+Meerdere maatschappijen,TLV,BKK,14u 05m ,2 stops ,2023-02-28,16:20,11:25,€ 418 
+Etihad Airways,TLV,BKK,16u 50m ,2 stops ,2023-02-28,13:40,11:30,€ 437 
+Emirates,TLV,BKK,16u 40m ,1 stop ,2023-02-28,9:55,7:35,€ 458 
+Emirates,TLV,BKK,13u 20m ,1 stop ,2023-03-01,18:25,12:45,€ 475 
+Etihad Airways,TLV,BKK,13u 15m ,1 stop ,2023-03-01,13:40,7:55,€ 437 
+Gulf Air,TLV,BKK,19u 25m ,1 stop ,2023-03-01,8:30,8:55,€ 390 
+Emirates,TLV,BKK,13u 20m ,1 stop ,2023-03-01,18:25,12:45,€ 475 
+EL AL,TLV,BKK,10u 45m ,direct ,2023-03-01,23:55,15:40,€ 584 
+Royal Jordanian,TLV,BKK,15u 30m ,1 stop ,2023-03-01,17:55,14:25,€ 438 
+Emirates,TLV,BKK,14u 45m ,1 stop ,2023-03-01,11:50,7:35,€ 475 
+Emirates,TLV,BKK,12u 40m ,1 stop ,2023-03-01,18:25,12:05,€ 615 
+Etihad Airways,TLV,BKK,16u 50m ,2 stops ,2023-03-01,13:40,11:30,€ 475 
+Emirates,TLV,BKK,13u 35m ,1 stop ,2023-03-01,0:05,18:40,€ 615 
+Emirates,TLV,BKK,13u 55m ,1 stop ,2023-03-01,23:45,18:40,€ 615 
+Emirates,TLV,BKK,19u 15m ,1 stop ,2023-03-01,18:25,18:40,€ 475 
+Emirates,TLV,BKK,19u 55m ,1 stop ,2023-03-01,11:50,12:45,€ 475 
+Thai Airways,TLV,BKK,10u 45m ,direct ,2023-03-01,23:55,15:40,€ 936 
+Ethiopian Air,TLV,BKK,22u 40m ,1 stop ,2023-03-01,9:00,12:40,€ 504 
+Emirates,TLV,BKK,17u 10m ,2 stops ,2023-03-01,18:25,16:35,€ 742 
+Emirates,TLV,BKK,13u 55m ,1 stop ,2023-03-22,12:40,7:35,€ 559 
+"Wizz Air, IndiGo",TLV,BKK,24u 10m ,2 stops ,2023-03-22,9:25,14:35,€ 374 
+Royal Jordanian,TLV,BKK,15u 30m ,1 stop ,2023-03-22,17:55,14:25,€ 516 
+Gulf Air,TLV,BKK,19u 25m ,1 stop ,2023-03-22,8:30,8:55,€ 451 
+Emirates,TLV,BKK,13u 55m ,1 stop ,2023-03-22,12:40,7:35,€ 559 
+"EL AL, IndiGo",TLV,BKK,21u 00m ,2 stops ,2023-03-22,12:35,14:35,€ 403 
+"Gulf Air, Thai AirAsia",TLV,BKK,14u 40m ,2 stops ,2023-03-22,8:30,4:10,€ 472 
+Ethiopian Air,TLV,BKK,22u 40m ,1 stop ,2023-03-22,9:00,12:40,€ 490 
+Royal Jordanian,TLV,BKK,9u 55m ,1 stop ,2023-03-22,23:30,14:25,€ 726 
+EL AL,TLV,BKK,10u 45m ,direct ,2023-03-22,23:00,14:45,€ 904 
+Meerdere maatschappijen,TLV,BKK,19u 25m ,3 stops ,2023-03-22,12:35,13:00,€ 427 
+Emirates,TLV,BKK,14u 45m ,1 stop ,2023-03-22,11:50,7:35,€ 559 
+Emirates,TLV,BKK,16u 40m ,1 stop ,2023-03-22,9:55,7:35,€ 559 
+Emirates,TLV,BKK,18u 25m ,1 stop ,2023-03-22,12:40,12:05,€ 559 
+Emirates,TLV,BKK,19u 15m ,1 stop ,2023-03-22,11:50,12:05,€ 559 
+Emirates,TLV,BKK,13u 35m ,1 stop ,2023-03-22,0:05,18:40,€ 615 
+Emirates,TLV,BKK,14u 45m ,1 stop ,2023-03-23,11:50,7:35,€ 559 
+"Wizz Air, IndiGo",TLV,BKK,23u 25m ,2 stops ,2023-03-23,10:10,14:35,€ 313 
+Meerdere maatschappijen,TLV,BKK,14u 25m ,2 stops ,2023-03-23,17:35,13:00,€ 433 
+Meerdere maatschappijen,TLV,BKK,13u 45m ,2 stops ,2023-03-23,12:35,7:20,€ 463 
+Emirates,TLV,BKK,14u 45m ,1 stop ,2023-03-23,11:50,7:35,€ 559 
+"EL AL, EVA Air",TLV,BKK,17u 20m ,1 stop ,2023-03-23,16:10,14:30,€ 629 
+"Wizz Air, IndiGo",TLV,BKK,24u 10m ,3 stops ,2023-03-23,9:25,14:35,€ 324 
+"Wizz Air Abu Dhabi, IndiGo",TLV,BKK,23u 25m ,2 stops ,2023-03-23,10:10,14:35,€ 337 
+Meerdere maatschappijen,TLV,BKK,16u 00m ,2 stops ,2023-03-23,17:35,14:35,€ 430 
+Emirates,TLV,BKK,19u 55m ,1 stop ,2023-03-23,11:50,12:45,€ 559 
+Emirates,TLV,BKK,13u 55m ,1 stop ,2023-03-23,12:40,7:35,€ 615 
+EL AL,TLV,BKK,10u 45m ,direct ,2023-03-23,23:00,14:45,€ 909 
+"Wizz Air, IndiGo",TLV,BKK,25u 10m ,2 stops ,2023-03-23,10:10,16:20,€ 346 
+Meerdere maatschappijen,TLV,BKK,22u 25m ,2 stops ,2023-03-23,10:10,13:35,€ 373 
+"EL AL, IndiGo",TLV,BKK,21u 00m ,2 stops ,2023-03-23,12:35,14:35,€ 401 
+Meerdere maatschappijen,TLV,BKK,22u 55m ,2 stops ,2023-03-23,10:10,14:05,€ 407 
+Cathay Pacific,TLV,BKK,15u 55m ,1 stop ,2023-03-24,15:20,11:15,€ 588 
+"Wizz Air, Salam Air",TLV,BKK,15u 45m ,2 stops ,2023-03-24,10:45,6:30,€ 351 
+"Wizz Air Abu Dhabi, IndiGo",TLV,BKK,23u 50m ,2 stops ,2023-03-24,10:45,14:35,€ 337 
+Emirates,TLV,BKK,14u 45m ,1 stop ,2023-03-24,12:50,7:35,€ 543 
+EL AL,TLV,BKK,10u 45m ,direct ,2023-03-24,0:45,16:30,€ 665 
+"Wizz Air, IndiGo",TLV,BKK,23u 50m ,2 stops ,2023-03-24,10:45,14:35,€ 349 
+Emirates,TLV,BKK,14u 55m ,1 stop ,2023-03-24,23:45,18:40,€ 549 
+Cathay Pacific,TLV,BKK,15u 55m ,1 stop ,2023-03-24,15:20,11:15,€ 568 
+"Wizz Air, IndiGo",TLV,BKK,23u 50m ,3 stops ,2023-03-24,10:45,14:35,€ 382 
+Meerdere maatschappijen,TLV,BKK,22u 50m ,2 stops ,2023-03-24,10:45,13:35,€ 385 
+"Wizz Air, Vistara",TLV,BKK,22u 50m ,3 stops ,2023-03-24,10:45,13:35,€ 403 
+Meerdere maatschappijen,TLV,BKK,22u 50m ,2 stops ,2023-03-24,10:45,13:35,€ 448 
+Ethiopian Air,TLV,BKK,22u 40m ,1 stop ,2023-03-24,10:00,12:40,€ 490 
+"Pegasus Airlines, Qatar Airways",TLV,BKK,21u 15m ,2 stops ,2023-03-24,11:25,12:40,€ 526 
+"Pegasus Airlines, Qatar Airways",TLV,BKK,21u 15m ,2 stops ,2023-03-24,11:25,12:40,€ 526 
+Emirates,TLV,BKK,19u 15m ,1 stop ,2023-03-24,12:50,12:05,€ 543 
+Air India,TLV,BKK,17u 25m ,1 stop ,2023-03-25,22:10,19:35,€ 352 
+Air India,TLV,BKK,17u 25m ,1 stop ,2023-03-25,22:10,19:35,€ 339 
+"Wizz Air, IndiGo",TLV,BKK,24u 25m ,2 stops ,2023-03-25,10:25,14:50,€ 287 
+"Wizz Air, IndiGo",TLV,BKK,25u 45m ,2 stops ,2023-03-25,10:25,16:10,€ 290 
+Emirates,TLV,BKK,14u 45m ,1 stop ,2023-03-25,12:50,7:35,€ 539 
+Meerdere maatschappijen,TLV,BKK,27u 20m ,2 stops ,2023-03-25,21:10,4:30,€ 298 
+Meerdere maatschappijen,TLV,BKK,23u 50m ,2 stops ,2023-03-25,10:25,14:15,€ 328 
+EL AL,TLV,BKK,11u 15m ,direct ,2023-03-25,22:45,14:00,€ 904 
+"Aegean Airlines, Scoot",TLV,BKK,22u 10m ,2 stops ,2023-03-25,6:20,8:30,€ 449 
+"Aegean Airlines, Scoot",TLV,BKK,23u 30m ,2 stops ,2023-03-25,6:20,9:50,€ 449 
+Emirates,TLV,BKK,19u 25m ,1 stop ,2023-03-25,12:50,12:15,€ 539 
+Emirates,TLV,BKK,14u 55m ,1 stop ,2023-03-25,12:40,7:35,€ 549 
+Emirates,TLV,BKK,17u 40m ,1 stop ,2023-03-25,9:55,7:35,€ 549 
+Emirates,TLV,BKK,19u 25m ,1 stop ,2023-03-25,12:50,12:15,€ 560 
+Emirates,TLV,BKK,15u 10m ,1 stop ,2023-03-25,23:45,18:55,€ 603 
+Turkish Airlines,TLV,BKK,13u 50m ,1 stop ,2023-03-25,16:20,10:10,€ 703 
+Emirates,TLV,BKK,20u 10m ,1 stop ,2023-03-26,12:45,12:55,€ 615 
+Royal Jordanian,TLV,BKK,9u 55m ,1 stop ,2023-03-26,0:30,14:25,€ 487 
+Meerdere maatschappijen,TLV,BKK,38u 05m ,2 stops ,2023-03-26,10:25,4:30,€ 389 
+"BlueBird Airways, Scoot",TLV,BKK,20u 10m ,2 stops ,2023-03-26,8:20,8:30,€ 435 
+Air India,TLV,BKK,18u 25m ,1 stop ,2023-03-26,21:10,19:35,€ 507 
+Emirates,TLV,BKK,14u 50m ,1 stop ,2023-03-26,12:45,7:35,€ 593 
+"BlueBird Airways, Scoot",TLV,BKK,21u 30m ,2 stops ,2023-03-26,8:20,9:50,€ 435 
+"Arkia, Scoot",TLV,BKK,20u 40m ,2 stops ,2023-03-26,7:50,8:30,€ 445 
+"Arkia, Scoot",TLV,BKK,22u 00m ,2 stops ,2023-03-26,7:50,9:50,€ 445 
+"EL AL, Scoot",TLV,BKK,21u 30m ,2 stops ,2023-03-26,7:00,8:30,€ 448 
+"EL AL, Scoot",TLV,BKK,22u 50m ,2 stops ,2023-03-26,7:00,9:50,€ 448 
+"Hahn Air Systems, Scoot",TLV,BKK,20u 10m ,2 stops ,2023-03-26,8:20,8:30,€ 466 
+Ethiopian Air,TLV,BKK,22u 00m ,1 stop ,2023-03-26,10:00,12:00,€ 490 
+Meerdere maatschappijen,TLV,BKK,18u 00m ,2 stops ,2023-03-26,6:30,4:30,€ 496 
+"Royal Jordanian, Qatar Airways",TLV,BKK,19u 45m ,2 stops ,2023-03-26,19:10,18:55,€ 521 
+"Royal Jordanian, Qatar Airways",TLV,BKK,14u 25m ,2 stops ,2023-03-26,0:30,18:55,€ 560 
+"Royal Jordanian, Qatar Airways",TLV,BKK,14u 25m ,2 stops ,2023-03-26,0:30,18:55,€ 574 
+Emirates,TLV,BKK,14u 50m ,1 stop ,2023-03-27,12:45,7:35,€ 615 
+Ethiopian Air,TLV,BKK,23u 15m ,1 stop ,2023-03-27,10:00,13:15,€ 504 
+Ethiopian Air,TLV,BKK,32u 15m ,1 stop ,2023-03-27,1:00,13:15,€ 504 
+"Pegasus Airlines, Qatar Airways",TLV,BKK,19u 20m ,2 stops ,2023-03-27,6:55,6:15,€ 562 
+Emirates,TLV,BKK,14u 50m ,1 stop ,2023-03-27,12:45,7:35,€ 615 
+"Pegasus Airlines, Qatar Airways",TLV,BKK,21u 05m ,2 stops ,2023-03-27,5:10,6:15,€ 562 
+"Pegasus Airlines, Qatar Airways",TLV,BKK,21u 55m ,2 stops ,2023-03-27,11:15,13:10,€ 562 
+"Pegasus Airlines, Qatar Airways",TLV,BKK,21u 05m ,2 stops ,2023-03-27,11:15,12:20,€ 604 
+Emirates,TLV,BKK,19u 30m ,1 stop ,2023-03-27,12:45,12:15,€ 615 
+Emirates,TLV,BKK,26u 10m ,1 stop ,2023-03-27,12:45,18:55,€ 615 
+Gulf Air,TLV,BKK,20u 10m ,1 stop ,2023-03-27,9:20,9:30,€ 712 
+"Pegasus Airlines, Qatar Airways",TLV,BKK,16u 55m ,2 stops ,2023-03-27,16:15,13:10,€ 753 
+Austrian Airlines,TLV,BKK,15u 40m ,1 stop ,2023-03-27,15:20,11:00,€ 1004 
+EL AL,TLV,BKK,11u 25m ,direct ,2023-03-27,22:35,14:00,€ 1913 
+"ITA Airways, Qatar Airways",TLV,BKK,22u 00m ,2 stops ,2023-03-27,4:15,6:15,€ 704 
+"Pegasus Airlines, Qatar Airways",TLV,BKK,21u 55m ,2 stops ,2023-03-27,11:15,13:10,€ 753 
+Ethiopian Air,TLV,BKK,16u 25m ,1 stop ,2023-03-28,15:35,12:00,€ 504 
+EL AL,TLV,BKK,11u 25m ,direct ,2023-03-28,23:45,15:10,€ 921 
+Ethiopian Air,TLV,BKK,31u 00m ,1 stop ,2023-03-28,1:00,12:00,€ 504 
+"Pegasus Airlines, Qatar Airways",TLV,BKK,21u 05m ,2 stops ,2023-03-28,11:15,12:20,€ 562 
+"Pegasus Airlines, Qatar Airways",TLV,BKK,19u 20m ,2 stops ,2023-03-28,6:55,6:15,€ 651 
+Air India,TLV,BKK,18u 25m ,1 stop ,2023-03-28,21:10,19:35,€ 657 
+"Pegasus Airlines, Qatar Airways",TLV,BKK,21u 55m ,2 stops ,2023-03-28,11:15,13:10,€ 562 
+"Pegasus Airlines, Qatar Airways",TLV,BKK,21u 05m ,2 stops ,2023-03-28,5:10,6:15,€ 651 
+"Pegasus Airlines, Qatar Airways",TLV,BKK,16u 55m ,2 stops ,2023-03-28,16:15,13:10,€ 753 
+EL AL,TLV,BKK,15u 55m ,1 stop ,2023-03-28,0:45,20:40,€ 834 
+Emirates,TLV,BKK,12u 40m ,1 stop ,2023-03-28,19:35,12:15,€ 993 
+Emirates,TLV,BKK,13u 20m ,1 stop ,2023-03-28,19:35,12:55,€ 993 
+"Pegasus Airlines, Qatar Airways",TLV,BKK,21u 55m ,2 stops ,2023-03-28,11:15,13:10,€ 753 
+"ITA Airways, Qatar Airways",TLV,BKK,22u 00m ,2 stops ,2023-03-28,4:15,6:15,€ 927 
+Gulf Air,TLV,BKK,17u 55m ,2 stops ,2023-03-28,17:40,15:35,€ 981 
+Ethiopian Air,TLV,BKK,23u 15m ,1 stop ,2023-03-29,10:00,13:15,€ 504 
+Ethiopian Air,TLV,BKK,32u 15m ,1 stop ,2023-03-29,1:00,13:15,€ 504 
+EL AL,TLV,BKK,11u 25m ,direct ,2023-03-29,23:45,15:10,€ 1044 
+"Pegasus Airlines, Qatar Airways",TLV,BKK,21u 05m ,2 stops ,2023-03-29,11:15,12:20,€ 562 
+"Pegasus Airlines, Qatar Airways",TLV,BKK,21u 55m ,2 stops ,2023-03-29,11:15,13:10,€ 562 
+"Pegasus Airlines, Qatar Airways",TLV,BKK,19u 20m ,2 stops ,2023-03-29,6:55,6:15,€ 651 
+"Pegasus Airlines, Qatar Airways",TLV,BKK,21u 05m ,2 stops ,2023-03-29,5:10,6:15,€ 651 
+Emirates,TLV,BKK,12u 40m ,1 stop ,2023-03-29,19:35,12:15,€ 993 
+Emirates,TLV,BKK,13u 20m ,1 stop ,2023-03-29,19:35,12:55,€ 993 
+"ITA Airways, Qatar Airways",TLV,BKK,22u 00m ,2 stops ,2023-03-29,4:15,6:15,€ 838 
+Emirates,TLV,BKK,14u 50m ,1 stop ,2023-03-29,12:45,7:35,€ 993 
+Emirates,TLV,BKK,19u 30m ,1 stop ,2023-03-29,12:45,12:15,€ 993 
+Lufthansa,TLV,BKK,17u 30m ,2 stops ,2023-03-29,17:10,14:40,€ 1035 
+Etihad Airways,TLV,BKK,15u 00m ,1 stop ,2023-03-29,13:20,8:20,€ 1048 
+Thai Airways,TLV,BKK,11u 25m ,direct ,2023-03-29,23:45,15:10,€ 1482 
+"Royal Jordanian, Qatar Airways",TLV,BKK,14u 20m ,2 stops ,2023-03-30,0:35,18:55,€ 528 
+"Royal Jordanian, Qatar Airways",TLV,BKK,14u 20m ,2 stops ,2023-03-30,0:35,18:55,€ 528 
+"Wizz Air Abu Dhabi, GoFirst",TLV,BKK,28u 35m ,2 stops ,2023-03-30,10:10,18:45,€ 347 
+Meerdere maatschappijen,TLV,BKK,24u 40m ,2 stops ,2023-03-30,10:10,14:50,€ 360 
+"BlueBird Airways, Scoot",TLV,BKK,20u 20m ,2 stops ,2023-03-30,8:10,8:30,€ 501 
+"ISRAIR, Kuwait Airways",TLV,BKK,15u 30m ,2 stops ,2023-03-30,7:10,2:40,€ 564 
+Turkish Airlines,TLV,BKK,14u 15m ,1 stop ,2023-03-30,12:05,6:20,€ 703 
+Emirates,TLV,BKK,14u 50m ,1 stop ,2023-03-30,12:45,7:35,€ 754 
+Royal Jordanian,TLV,BKK,10u 40m ,1 stop ,2023-03-30,0:35,15:15,€ 758 
+EL AL,TLV,BKK,11u 25m ,direct ,2023-03-30,23:45,15:10,€ 904 
+Meerdere maatschappijen,TLV,BKK,24u 05m ,2 stops ,2023-03-30,10:10,14:15,€ 487 
+"BlueBird Airways, Scoot",TLV,BKK,21u 40m ,2 stops ,2023-03-30,8:10,9:50,€ 501 
+"Arkia, Scoot",TLV,BKK,20u 40m ,2 stops ,2023-03-30,7:50,8:30,€ 526 
+"Pegasus Airlines, Qatar Airways",TLV,BKK,21u 55m ,2 stops ,2023-03-30,11:15,13:10,€ 540 
+Meerdere maatschappijen,TLV,BKK,17u 45m ,3 stops ,2023-03-30,6:40,4:25,€ 555 
+Meerdere maatschappijen,TLV,BKK,17u 40m ,2 stops ,2023-03-30,6:40,4:20,€ 580 
+"Pegasus Airlines, Qatar Airways",TLV,BKK,21u 05m ,2 stops ,2023-03-30,11:15,12:20,€ 580 
+Ethiopian Air,TLV,BKK,23u 15m ,1 stop ,2023-03-31,10:00,13:15,€ 504 
+Ethiopian Air,TLV,BKK,32u 15m ,1 stop ,2023-03-31,1:00,13:15,€ 504 
+"Pegasus Airlines, Qatar Airways",TLV,BKK,21u 05m ,2 stops ,2023-03-31,11:15,12:20,€ 604 
+"Pegasus Airlines, Qatar Airways",TLV,BKK,21u 55m ,2 stops ,2023-03-31,11:15,13:10,€ 704 
+"Pegasus Airlines, Qatar Airways",TLV,BKK,19u 20m ,2 stops ,2023-03-31,6:55,6:15,€ 766 
+"Arkia, SriLankan Airlines",TLV,BKK,44u 00m ,2 stops ,2023-03-31,6:15,6:15,€ 564 
+"Pegasus Airlines, Qatar Airways",TLV,BKK,21u 05m ,2 stops ,2023-03-31,5:10,6:15,€ 766 
+Emirates,TLV,BKK,14u 50m ,1 stop ,2023-03-31,12:45,7:35,€ 1021 
+Emirates,TLV,BKK,19u 30m ,1 stop ,2023-03-31,12:45,12:15,€ 1021 
+Etihad Airways,TLV,BKK,14u 00m ,1 stop ,2023-03-31,14:20,8:20,€ 1048 
+"ITA Airways, Qatar Airways",TLV,BKK,21u 00m ,2 stops ,2023-03-31,5:15,6:15,€ 838 
+SWISS,TLV,BKK,25u 35m ,1 stop ,2023-03-31,4:50,10:25,€ 1012 
+Emirates,TLV,BKK,20u 10m ,1 stop ,2023-03-31,12:45,12:55,€ 1021 
+"Pegasus Airlines, Qatar Airways",TLV,BKK,16u 05m ,2 stops ,2023-03-31,16:15,12:20,€ 1075 
+Austrian Airlines,TLV,BKK,16u 10m ,1 stop ,2023-03-31,15:20,11:30,€ 1200 
+Emirates,TLV,BKK,14u 50m ,1 stop ,2023-04-01,12:45,7:35,€ 643 
+Ethiopian Air,TLV,BKK,17u 40m ,1 stop ,2023-04-01,15:35,13:15,€ 504 
+Emirates,TLV,BKK,14u 50m ,1 stop ,2023-04-01,12:45,7:35,€ 643 
+Ethiopian Air,TLV,BKK,32u 15m ,1 stop ,2023-04-01,1:00,13:15,€ 504 
+Air India,TLV,BKK,17u 25m ,1 stop ,2023-04-01,22:10,19:35,€ 640 
+Emirates,TLV,BKK,19u 30m ,1 stop ,2023-04-01,12:45,12:15,€ 643 
+Emirates,TLV,BKK,26u 10m ,1 stop ,2023-04-01,12:45,18:55,€ 643 
+Emirates,TLV,BKK,20u 10m ,1 stop ,2023-04-01,12:45,12:55,€ 769 
+EL AL,TLV,BKK,11u 25m ,direct ,2023-04-01,22:35,14:00,€ 1044 
+"Pegasus Airlines, Qatar Airways",TLV,BKK,19u 20m ,2 stops ,2023-04-01,6:55,6:15,€ 766 
+"Pegasus Airlines, Qatar Airways",TLV,BKK,21u 05m ,2 stops ,2023-04-01,11:15,12:20,€ 766 
+Emirates,TLV,BKK,12u 40m ,1 stop ,2023-04-01,19:35,12:15,€ 1021 
+Emirates,TLV,BKK,13u 20m ,1 stop ,2023-04-01,19:35,12:55,€ 1021 
+Thai Airways,TLV,BKK,11u 25m ,direct ,2023-04-01,22:35,14:00,€ 1482 
+"Pegasus Airlines, Qatar Airways",TLV,BKK,21u 05m ,2 stops ,2023-04-01,5:10,6:15,€ 766 
+"Pegasus Airlines, Qatar Airways",TLV,BKK,21u 55m ,2 stops ,2023-04-01,11:15,13:10,€ 838 
+Emirates,TLV,BKK,20u 10m ,1 stop ,2023-04-02,12:45,12:55,€ 643 
+Ethiopian Air,TLV,BKK,22u 00m ,1 stop ,2023-04-02,10:00,12:00,€ 490 
+Air India,TLV,BKK,17u 25m ,1 stop ,2023-04-02,22:10,19:35,€ 568 
+Royal Jordanian,TLV,BKK,10u 40m ,1 stop ,2023-04-02,0:35,15:15,€ 743 
+Emirates,TLV,BKK,14u 50m ,1 stop ,2023-04-02,12:45,7:35,€ 631 
+"Pegasus Airlines, Qatar Airways",TLV,BKK,25u 25m ,2 stops ,2023-04-02,6:55,12:20,€ 579 
+Meerdere maatschappijen,TLV,BKK,17u 55m ,2 stops ,2023-04-02,6:30,4:25,€ 604 
+Meerdere maatschappijen,TLV,BKK,17u 50m ,2 stops ,2023-04-02,6:30,4:20,€ 611 
+"Royal Jordanian, Qatar Airways",TLV,BKK,17u 50m ,2 stops ,2023-04-02,8:25,6:15,€ 616 
+Emirates,TLV,BKK,20u 10m ,1 stop ,2023-04-02,12:45,12:55,€ 634 
+Emirates,TLV,BKK,26u 10m ,1 stop ,2023-04-02,12:45,18:55,€ 635 
+"IndiGo, Vistara",TLV,BKK,17u 15m ,2 stops ,2023-04-02,17:00,14:15,€ 650 
+"Pegasus Airlines, Qatar Airways",TLV,BKK,19u 20m ,2 stops ,2023-04-02,6:55,6:15,€ 680 
+Turkish Airlines,TLV,BKK,14u 15m ,1 stop ,2023-04-02,12:05,6:20,€ 703 
+EL AL,TLV,BKK,11u 25m ,direct ,2023-04-02,22:35,14:00,€ 1044 
+"Wizz Air, Gulf Air",TLV,BKK,19u 20m ,2 stops ,2023-04-02,10:10,9:30,€ 634 
+Ethiopian Air,TLV,BKK,23u 15m ,1 stop ,2023-04-03,10:00,13:15,€ 509 
+Ethiopian Air,TLV,BKK,23u 15m ,1 stop ,2023-04-03,10:00,13:15,€ 490 
+Meerdere maatschappijen,TLV,BKK,38u 20m ,2 stops ,2023-04-03,10:10,4:30,€ 450 
+"Royal Jordanian, Qatar Airways",TLV,BKK,17u 50m ,2 stops ,2023-04-03,8:25,6:15,€ 533 
+"Royal Jordanian, Qatar Airways",TLV,BKK,14u 20m ,2 stops ,2023-04-03,0:35,18:55,€ 569 
+Emirates,TLV,BKK,14u 50m ,1 stop ,2023-04-03,12:45,7:35,€ 754 
+"Pegasus Airlines, Qatar Airways",TLV,BKK,21u 05m ,2 stops ,2023-04-03,11:15,12:20,€ 539 
+"Royal Jordanian, Qatar Airways",TLV,BKK,19u 45m ,2 stops ,2023-04-03,19:10,18:55,€ 569 
+"Pegasus Airlines, Qatar Airways",TLV,BKK,19u 20m ,2 stops ,2023-04-03,6:55,6:15,€ 580 
+Turkish Airlines,TLV,BKK,14u 15m ,1 stop ,2023-04-03,12:05,6:20,€ 810 
+Turkish Airlines,TLV,BKK,14u 50m ,1 stop ,2023-04-03,20:35,15:25,€ 810 
+EL AL,TLV,BKK,11u 25m ,direct ,2023-04-03,22:35,14:00,€ 1044 
+"Pegasus Airlines, Qatar Airways",TLV,BKK,25u 25m ,2 stops ,2023-04-03,6:55,12:20,€ 539 
+IndiGo,TLV,BKK,20u 30m ,2 stops ,2023-04-03,14:20,14:50,€ 574 
+"Pegasus Airlines, Qatar Airways",TLV,BKK,25u 25m ,2 stops ,2023-04-03,6:55,12:20,€ 579 
+"Pegasus Airlines, Qatar Airways",TLV,BKK,21u 05m ,2 stops ,2023-04-03,5:10,6:15,€ 580 
+Meerdere maatschappijen,TLV,BKK,18u 05m ,2 stops ,2023-04-03,6:15,4:20,€ 625 
+Air India,TLV,BKK,17u 25m ,1 stop ,2023-04-04,22:10,19:35,€ 587 
+Ethiopian Air,TLV,BKK,16u 25m ,1 stop ,2023-04-04,15:35,12:00,€ 580 
+Ethiopian Air,TLV,BKK,31u 00m ,1 stop ,2023-04-04,1:00,12:00,€ 490 
+EL AL,TLV,BKK,11u 25m ,direct ,2023-04-04,21:45,13:10,€ 759 
+Air India,TLV,BKK,17u 25m ,1 stop ,2023-04-04,22:10,19:35,€ 568 
+"Royal Jordanian, Qatar Airways",TLV,BKK,14u 20m ,2 stops ,2023-04-04,0:35,18:55,€ 569 
+"Pegasus Airlines, Qatar Airways",TLV,BKK,21u 55m ,2 stops ,2023-04-04,11:15,13:10,€ 580 
+"Pegasus Airlines, Qatar Airways",TLV,BKK,16u 55m ,2 stops ,2023-04-04,16:15,13:10,€ 666 
+Emirates,TLV,BKK,14u 50m ,1 stop ,2023-04-04,12:45,7:35,€ 754 
+IndiGo,TLV,BKK,20u 30m ,2 stops ,2023-04-04,14:20,14:50,€ 581 
+"Pegasus Airlines, Qatar Airways",TLV,BKK,19u 20m ,2 stops ,2023-04-04,6:55,6:15,€ 682 
+Turkish Airlines,TLV,BKK,13u 30m ,1 stop ,2023-04-04,21:55,15:25,€ 810 
+Turkish Airlines,TLV,BKK,14u 15m ,1 stop ,2023-04-04,12:05,6:20,€ 810 
+Turkish Airlines,TLV,BKK,14u 50m ,1 stop ,2023-04-04,20:35,15:25,€ 810 
+EL AL,TLV,BKK,11u 25m ,direct ,2023-04-04,23:45,15:10,€ 1044 
+"Pegasus Airlines, Qatar Airways",TLV,BKK,21u 55m ,2 stops ,2023-04-04,11:15,13:10,€ 666 
+"Pegasus Airlines, Qatar Airways",TLV,BKK,21u 05m ,2 stops ,2023-04-04,11:15,12:20,€ 679 
+Ethiopian Air,TLV,BKK,23u 15m ,1 stop ,2023-04-05,10:00,13:15,€ 505 
+Ethiopian Air,TLV,BKK,23u 15m ,1 stop ,2023-04-05,10:00,13:15,€ 490 
+"Royal Jordanian, Qatar Airways",TLV,BKK,17u 50m ,2 stops ,2023-04-05,8:25,6:15,€ 574 
+Emirates,TLV,BKK,12u 40m ,1 stop ,2023-04-05,19:35,12:15,€ 753 
+"Pegasus Airlines, Qatar Airways",TLV,BKK,19u 20m ,2 stops ,2023-04-05,6:55,6:15,€ 580 
+Emirates,TLV,BKK,20u 10m ,1 stop ,2023-04-05,12:45,12:55,€ 642 
+Turkish Airlines,TLV,BKK,14u 15m ,1 stop ,2023-04-05,12:05,6:20,€ 705 
+Emirates,TLV,BKK,14u 50m ,1 stop ,2023-04-05,12:45,7:35,€ 737 
+Emirates,TLV,BKK,13u 20m ,1 stop ,2023-04-05,19:35,12:55,€ 753 
+"Pegasus Airlines, Qatar Airways",TLV,BKK,25u 25m ,2 stops ,2023-04-05,6:55,12:20,€ 579 
+"Pegasus Airlines, Qatar Airways",TLV,BKK,26u 15m ,2 stops ,2023-04-05,6:55,13:10,€ 579 
+"Pegasus Airlines, Qatar Airways",TLV,BKK,21u 05m ,2 stops ,2023-04-05,5:10,6:15,€ 580 
+IndiGo,TLV,BKK,20u 30m ,2 stops ,2023-04-05,14:20,14:50,€ 586 
+"Pegasus Airlines, Qatar Airways",TLV,BKK,21u 55m ,2 stops ,2023-04-05,11:15,13:10,€ 627 
+Royal Jordanian,TLV,BKK,16u 05m ,1 stop ,2023-04-05,19:10,15:15,€ 747 
+Emirates,TLV,BKK,19u 20m ,1 stop ,2023-04-05,19:35,18:55,€ 753 
+Emirates,TLV,BKK,14u 50m ,1 stop ,2023-04-06,12:45,7:35,€ 769 
+EL AL,TLV,BKK,17u 10m ,1 stop ,2023-04-06,23:30,20:40,€ 560 
+Ethiopian Air,TLV,BKK,16u 25m ,1 stop ,2023-04-06,15:35,12:00,€ 580 
+"EL AL, Bangkok Airways",TLV,BKK,17u 10m ,1 stop ,2023-04-06,23:30,20:40,€ 564 
+Royal Jordanian,TLV,BKK,10u 40m ,1 stop ,2023-04-06,0:35,15:15,€ 747 
+IndiGo,TLV,BKK,20u 30m ,2 stops ,2023-04-06,14:20,14:50,€ 574 
+"Pegasus Airlines, Qatar Airways",TLV,BKK,19u 20m ,2 stops ,2023-04-06,6:55,6:15,€ 706 
+"Arkia, Kuwait Airways",TLV,BKK,16u 25m ,2 stops ,2023-04-06,6:15,2:40,€ 729 
+Emirates,TLV,BKK,14u 50m ,1 stop ,2023-04-06,12:45,7:35,€ 769 
+EL AL,TLV,BKK,11u 25m ,direct ,2023-04-06,23:45,15:10,€ 904 
+IndiGo,TLV,BKK,24u 10m ,2 stops ,2023-04-06,10:40,14:50,€ 635 
+"Pegasus Airlines, Qatar Airways",TLV,BKK,21u 05m ,2 stops ,2023-04-06,5:10,6:15,€ 706 
+Emirates,TLV,BKK,19u 30m ,1 stop ,2023-04-06,12:45,12:15,€ 769 
+Emirates,TLV,BKK,20u 10m ,1 stop ,2023-04-06,12:45,12:55,€ 769 
+Emirates,TLV,BKK,12u 40m ,1 stop ,2023-04-06,19:35,12:15,€ 1021 
+Cathay Pacific,TLV,BKK,15u 25m ,1 stop ,2023-04-06,14:35,10:00,€ 1028 
+Emirates,TLV,BKK,14u 50m ,1 stop ,2023-04-07,12:45,7:35,€ 587 
+Ethiopian Air,TLV,BKK,23u 15m ,1 stop ,2023-04-07,10:00,13:15,€ 490 
+Emirates,TLV,BKK,14u 50m ,1 stop ,2023-04-07,12:45,7:35,€ 574 
+"Royal Jordanian, Qatar Airways",TLV,BKK,19u 45m ,2 stops ,2023-04-07,19:10,18:55,€ 533 
+Emirates,TLV,BKK,19u 30m ,1 stop ,2023-04-07,12:45,12:15,€ 574 
+Emirates,TLV,BKK,20u 10m ,1 stop ,2023-04-07,12:45,12:55,€ 574 
+Emirates,TLV,BKK,26u 10m ,1 stop ,2023-04-07,12:45,18:55,€ 574 
+"Pegasus Airlines, Qatar Airways",TLV,BKK,25u 25m ,2 stops ,2023-04-07,6:55,12:20,€ 579 
+"Pegasus Airlines, Qatar Airways",TLV,BKK,21u 55m ,2 stops ,2023-04-07,11:15,13:10,€ 580 
+"Pegasus Airlines, Qatar Airways",TLV,BKK,19u 20m ,2 stops ,2023-04-07,6:55,6:15,€ 628 
+Turkish Airlines,TLV,BKK,14u 15m ,1 stop ,2023-04-07,12:05,6:20,€ 703 
+"Pegasus Airlines, Qatar Airways",TLV,BKK,16u 55m ,2 stops ,2023-04-07,16:15,13:10,€ 731 
+Royal Jordanian,TLV,BKK,16u 05m ,1 stop ,2023-04-07,19:10,15:15,€ 734 
+Turkish Airlines,TLV,BKK,13u 30m ,1 stop ,2023-04-07,21:55,15:25,€ 935 
+Emirates,TLV,BKK,12u 40m ,1 stop ,2023-04-07,19:35,12:15,€ 997 
+"Pegasus Airlines, Qatar Airways",TLV,BKK,26u 15m ,2 stops ,2023-04-07,6:55,13:10,€ 579 
+Emirates,TLV,BKK,14u 50m ,1 stop ,2023-04-08,12:45,7:35,€ 559 
+Ethiopian Air,TLV,BKK,17u 40m ,1 stop ,2023-04-08,15:35,13:15,€ 490 
+Meerdere maatschappijen,TLV,BKK,38u 20m ,2 stops ,2023-04-08,10:10,4:30,€ 445 
+Emirates,TLV,BKK,14u 50m ,1 stop ,2023-04-08,12:45,7:35,€ 543 
+Air India,TLV,BKK,17u 25m ,1 stop ,2023-04-08,22:10,19:35,€ 568 
+EL AL,TLV,BKK,11u 25m ,direct ,2023-04-08,22:35,14:00,€ 904 
+Emirates,TLV,BKK,19u 30m ,1 stop ,2023-04-08,12:45,12:15,€ 543 
+Emirates,TLV,BKK,13u 20m ,1 stop ,2023-04-08,19:35,12:55,€ 741 
+Royal Jordanian,TLV,BKK,10u 40m ,1 stop ,2023-04-08,0:35,15:15,€ 758 
+Emirates,TLV,BKK,20u 10m ,1 stop ,2023-04-08,12:45,12:55,€ 543 
+Emirates,TLV,BKK,26u 10m ,1 stop ,2023-04-08,12:45,18:55,€ 551 
+"Pegasus Airlines, Qatar Airways",TLV,BKK,21u 55m ,2 stops ,2023-04-08,11:15,13:10,€ 580 
+IndiGo,TLV,BKK,20u 30m ,2 stops ,2023-04-08,14:20,14:50,€ 581 
+Turkish Airlines,TLV,BKK,14u 15m ,1 stop ,2023-04-08,12:05,6:20,€ 703 
+"Lufthansa, Thai Airways",TLV,BKK,18u 25m ,1 stop ,2023-04-08,8:00,6:25,€ 742 
+Turkish Airlines,TLV,BKK,13u 30m ,1 stop ,2023-04-08,21:55,15:25,€ 810 
+Turkish Airlines,TLV,BKK,14u 50m ,1 stop ,2023-04-08,20:35,15:25,€ 810 
+Emirates,TLV,BKK,14u 50m ,1 stop ,2023-04-09,12:45,7:35,€ 475 
+Air India,TLV,BKK,17u 25m ,1 stop ,2023-04-09,22:10,19:35,€ 450 
+Royal Jordanian,TLV,BKK,10u 40m ,1 stop ,2023-04-09,0:35,15:15,€ 524 
+EL AL,TLV,BKK,11u 25m ,direct ,2023-04-09,22:35,14:00,€ 577 
+Emirates,TLV,BKK,14u 50m ,1 stop ,2023-04-09,12:45,7:35,€ 457 
+Emirates,TLV,BKK,20u 10m ,1 stop ,2023-04-09,12:45,12:55,€ 457 
+Emirates,TLV,BKK,26u 10m ,1 stop ,2023-04-09,12:45,18:55,€ 466 
+Ethiopian Air,TLV,BKK,22u 00m ,1 stop ,2023-04-09,10:00,12:00,€ 490 
+"Royal Jordanian, Qatar Airways",TLV,BKK,17u 50m ,2 stops ,2023-04-09,8:25,6:15,€ 528 
+Meerdere maatschappijen,TLV,BKK,17u 55m ,2 stops ,2023-04-09,6:30,4:25,€ 562 
+Meerdere maatschappijen,TLV,BKK,17u 50m ,2 stops ,2023-04-09,6:30,4:20,€ 569 
+Emirates,TLV,BKK,19u 30m ,1 stop ,2023-04-09,12:45,12:15,€ 591 
+"Pegasus Airlines, Qatar Airways",TLV,BKK,19u 20m ,2 stops ,2023-04-09,6:55,6:15,€ 624 
+Turkish Airlines,TLV,BKK,14u 15m ,1 stop ,2023-04-09,12:05,6:20,€ 703 
+Emirates,TLV,BKK,12u 40m ,1 stop ,2023-04-09,19:35,12:15,€ 973 
+Thai Airways,TLV,BKK,11u 25m ,direct ,2023-04-09,22:35,14:00,€ 1031 
+Emirates,TLV,BKK,14u 50m ,1 stop ,2023-04-10,12:45,7:35,€ 475 
+Gulf Air,TLV,BKK,20u 10m ,1 stop ,2023-04-10,9:20,9:30,€ 399 
+Royal Jordanian,TLV,BKK,16u 05m ,1 stop ,2023-04-10,19:10,15:15,€ 460 
+Emirates,TLV,BKK,14u 50m ,1 stop ,2023-04-10,12:45,7:35,€ 459 
+Emirates,TLV,BKK,13u 20m ,1 stop ,2023-04-10,19:35,12:55,€ 540 
+Emirates,TLV,BKK,19u 30m ,1 stop ,2023-04-10,12:45,12:15,€ 459 
+Emirates,TLV,BKK,20u 10m ,1 stop ,2023-04-10,12:45,12:55,€ 459 
+EL AL,TLV,BKK,11u 25m ,direct ,2023-04-10,23:45,15:10,€ 665 
+Royal Jordanian,TLV,BKK,26u 50m ,1 stop ,2023-04-10,8:25,15:15,€ 465 
+Emirates,TLV,BKK,26u 10m ,1 stop ,2023-04-10,12:45,18:55,€ 466 
+Meerdere maatschappijen,TLV,BKK,17u 40m ,2 stops ,2023-04-10,6:40,4:20,€ 489 
+Ethiopian Air,TLV,BKK,23u 15m ,1 stop ,2023-04-10,10:00,13:15,€ 490 
+"Royal Jordanian, Qatar Airways",TLV,BKK,14u 20m ,2 stops ,2023-04-10,0:35,18:55,€ 529 
+Emirates,TLV,BKK,19u 20m ,1 stop ,2023-04-10,19:35,18:55,€ 540 
+Emirates,TLV,BKK,12u 40m ,1 stop ,2023-04-10,19:35,12:15,€ 595 
+"Royal Jordanian, Qatar Airways",TLV,BKK,17u 50m ,2 stops ,2023-04-10,8:25,6:15,€ 529 
+Emirates,TLV,BKK,13u 20m ,1 stop ,2023-04-11,19:35,12:55,€ 475 
+Royal Jordanian,TLV,BKK,10u 40m ,1 stop ,2023-04-11,0:35,15:15,€ 472 
+Meerdere maatschappijen,TLV,BKK,38u 15m ,2 stops ,2023-04-11,10:10,4:25,€ 366 
+Emirates,TLV,BKK,13u 20m ,1 stop ,2023-04-11,19:35,12:55,€ 466 
+Emirates,TLV,BKK,14u 50m ,1 stop ,2023-04-11,12:45,7:35,€ 466 
+Etihad Airways,TLV,BKK,14u 00m ,1 stop ,2023-04-11,14:20,8:20,€ 474 
+Emirates,TLV,BKK,12u 40m ,1 stop ,2023-04-11,19:35,12:15,€ 603 
+Gulf Air,TLV,BKK,17u 55m ,2 stops ,2023-04-11,17:40,15:35,€ 384 
+Ethiopian Air,TLV,BKK,16u 25m ,1 stop ,2023-04-11,15:35,12:00,€ 490 
+Air India,TLV,BKK,17u 25m ,1 stop ,2023-04-11,22:10,19:35,€ 450 
+Emirates,TLV,BKK,20u 10m ,1 stop ,2023-04-11,12:45,12:55,€ 466 
+Emirates,TLV,BKK,19u 20m ,1 stop ,2023-04-11,19:35,18:55,€ 508 
+Emirates,TLV,BKK,19u 30m ,1 stop ,2023-04-11,12:45,12:15,€ 508 
+"Gulf Air, Vistara",TLV,BKK,16u 35m ,2 stops ,2023-04-11,17:40,14:15,€ 528 
+"Royal Jordanian, Qatar Airways",TLV,BKK,17u 50m ,2 stops ,2023-04-11,8:25,6:15,€ 533 
+EL AL,TLV,BKK,15u 55m ,1 stop ,2023-04-11,0:45,20:40,€ 560 
+"EL AL, Bangkok Airways",TLV,BKK,15u 55m ,1 stop ,2023-04-11,0:45,20:40,€ 564 
+Emirates,TLV,BKK,12u 40m ,1 stop ,2023-04-12,19:35,12:15,€ 475 
+Emirates,TLV,BKK,12u 40m ,1 stop ,2023-04-12,19:35,12:15,€ 466 
+Meerdere maatschappijen,TLV,BKK,39u 35m ,2 stops ,2023-04-12,10:10,5:45,€ 390 
+Emirates,TLV,BKK,13u 20m ,1 stop ,2023-04-12,19:35,12:55,€ 466 
+EL AL,TLV,BKK,11u 25m ,direct ,2023-04-12,23:45,15:10,€ 503 
+Emirates,TLV,BKK,14u 50m ,1 stop ,2023-04-12,12:45,7:35,€ 466 
+Etihad Airways,TLV,BKK,14u 00m ,1 stop ,2023-04-12,14:20,8:20,€ 474 
+Emirates,TLV,BKK,13u 10m ,1 stop ,2023-04-12,1:45,18:55,€ 507 
+Emirates,TLV,BKK,14u 10m ,1 stop ,2023-04-12,13:25,7:35,€ 548 
+Emirates,TLV,BKK,15u 00m ,1 stop ,2023-04-12,23:55,18:55,€ 466 
+Royal Jordanian,TLV,BKK,16u 05m ,1 stop ,2023-04-12,19:10,15:15,€ 515 
+Emirates,TLV,BKK,19u 20m ,1 stop ,2023-04-12,19:35,18:55,€ 466 
+Emirates,TLV,BKK,19u 30m ,1 stop ,2023-04-12,12:45,12:15,€ 466 
+Emirates,TLV,BKK,20u 10m ,1 stop ,2023-04-12,12:45,12:55,€ 466 
+"Royal Jordanian, Qatar Airways",TLV,BKK,17u 50m ,2 stops ,2023-04-12,8:25,6:15,€ 529 
+Emirates,TLV,BKK,16u 35m ,1 stop ,2023-04-12,11:00,7:35,€ 548 
+Emirates,TLV,BKK,18u 50m ,1 stop ,2023-04-12,13:25,12:15,€ 548 
+Emirates,TLV,BKK,13u 20m ,1 stop ,2023-04-13,19:35,12:55,€ 475 
+Royal Jordanian,TLV,BKK,10u 40m ,1 stop ,2023-04-13,0:35,15:15,€ 442 
+Royal Jordanian,TLV,BKK,27u 10m ,1 stop ,2023-04-13,8:25,15:35,€ 418 
+EL AL,TLV,BKK,11u 25m ,direct ,2023-04-13,23:45,15:10,€ 449 
+Emirates,TLV,BKK,13u 20m ,1 stop ,2023-04-13,19:35,12:55,€ 462 
+Emirates,TLV,BKK,14u 50m ,1 stop ,2023-04-13,12:45,7:35,€ 462 
+Emirates,TLV,BKK,13u 10m ,1 stop ,2023-04-13,1:45,18:55,€ 466 
+Etihad Airways,TLV,BKK,13u 20m ,1 stop ,2023-04-13,15:00,8:20,€ 474 
+Emirates,TLV,BKK,12u 40m ,1 stop ,2023-04-13,19:35,12:15,€ 543 
+Ethiopian Air,TLV,BKK,16u 25m ,1 stop ,2023-04-13,15:35,12:00,€ 490 
+Emirates,TLV,BKK,14u 10m ,1 stop ,2023-04-13,13:25,7:35,€ 549 
+Thai Airways,TLV,BKK,11u 25m ,direct ,2023-04-13,23:45,15:10,€ 709 
+Emirates,TLV,BKK,15u 00m ,1 stop ,2023-04-13,23:55,18:55,€ 508 
+"EL AL, EVA Air",TLV,BKK,17u 30m ,1 stop ,2023-04-13,16:10,13:40,€ 545 
+Emirates,TLV,BKK,16u 35m ,1 stop ,2023-04-13,11:00,7:35,€ 603 
+Turkish Airlines,TLV,BKK,14u 15m ,1 stop ,2023-04-13,12:05,6:20,€ 703 
+Emirates,TLV,BKK,20u 10m ,1 stop ,2023-04-13,12:45,12:55,€ 462 
+Emirates,TLV,BKK,14u 50m ,1 stop ,2023-04-14,12:45,7:35,€ 475 
+Etihad Airways,TLV,BKK,14u 00m ,1 stop ,2023-04-14,14:20,8:20,€ 474 
+"Wizz Air Abu Dhabi, GoFirst",TLV,BKK,22u 50m ,2 stops ,2023-04-14,10:10,13:00,€ 415 
+Emirates,TLV,BKK,13u 20m ,1 stop ,2023-04-14,19:35,12:55,€ 503 
+Emirates,TLV,BKK,12u 40m ,1 stop ,2023-04-14,19:35,12:15,€ 543 
+Emirates,TLV,BKK,14u 50m ,1 stop ,2023-04-14,12:45,7:35,€ 462 
+Emirates,TLV,BKK,13u 10m ,1 stop ,2023-04-14,1:45,18:55,€ 503 
+Emirates,TLV,BKK,14u 10m ,1 stop ,2023-04-14,13:25,7:35,€ 503 
+Emirates,TLV,BKK,16u 35m ,1 stop ,2023-04-14,11:00,7:35,€ 503 
+Emirates,TLV,BKK,15u 00m ,1 stop ,2023-04-14,23:55,18:55,€ 543 
+Turkish Airlines,TLV,BKK,14u 15m ,1 stop ,2023-04-14,12:05,6:20,€ 703 
+Ethiopian Air,TLV,BKK,23u 15m ,1 stop ,2023-04-14,10:00,13:15,€ 490 
+Emirates,TLV,BKK,19u 30m ,1 stop ,2023-04-14,13:25,12:55,€ 503 
+Emirates,TLV,BKK,20u 10m ,1 stop ,2023-04-14,12:45,12:55,€ 503 
+Emirates,TLV,BKK,21u 55m ,1 stop ,2023-04-14,11:00,12:55,€ 503 
+Emirates,TLV,BKK,19u 20m ,1 stop ,2023-04-14,19:35,18:55,€ 543 
+Emirates,TLV,BKK,19u 30m ,1 stop ,2023-04-14,12:45,12:15,€ 543 
+Emirates,TLV,BKK,14u 50m ,1 stop ,2023-04-15,12:45,7:35,€ 475 
+EL AL,TLV,BKK,11u 25m ,direct ,2023-04-15,22:35,14:00,€ 581 
+"Wizz Air Abu Dhabi, GoFirst",TLV,BKK,22u 50m ,2 stops ,2023-04-15,10:10,13:00,€ 382 
+Emirates,TLV,BKK,14u 50m ,1 stop ,2023-04-15,12:45,7:35,€ 460 
+Etihad Airways,TLV,BKK,14u 00m ,1 stop ,2023-04-15,14:20,8:20,€ 501 
+Emirates,TLV,BKK,14u 10m ,1 stop ,2023-04-15,13:25,7:35,€ 508 
+Emirates,TLV,BKK,12u 40m ,1 stop ,2023-04-15,19:35,12:15,€ 595 
+Emirates,TLV,BKK,13u 20m ,1 stop ,2023-04-15,19:35,12:55,€ 595 
+Ethiopian Air,TLV,BKK,17u 40m ,1 stop ,2023-04-15,15:35,13:15,€ 490 
+Emirates,TLV,BKK,16u 35m ,1 stop ,2023-04-15,11:00,7:35,€ 508 
+Emirates,TLV,BKK,13u 10m ,1 stop ,2023-04-15,1:45,18:55,€ 549 
+Royal Jordanian,TLV,BKK,10u 40m ,1 stop ,2023-04-15,0:35,15:15,€ 741 
+Air India,TLV,BKK,17u 25m ,1 stop ,2023-04-15,22:10,19:35,€ 450 
+Emirates,TLV,BKK,15u 00m ,1 stop ,2023-04-15,23:55,18:55,€ 549 
+"Royal Jordanian, Qatar Airways",TLV,BKK,14u 20m ,2 stops ,2023-04-15,0:35,18:55,€ 617 
+Turkish Airlines,TLV,BKK,14u 15m ,1 stop ,2023-04-15,12:05,6:20,€ 703 
+Thai Airways,TLV,BKK,11u 25m ,direct ,2023-04-15,22:35,14:00,€ 916 
+Emirates,TLV,BKK,14u 50m ,1 stop ,2023-04-16,12:45,7:35,€ 475 
+EL AL,TLV,BKK,11u 25m ,direct ,2023-04-16,22:35,14:00,€ 512 
+Air India,TLV,BKK,17u 25m ,1 stop ,2023-04-16,22:10,19:35,€ 461 
+Emirates,TLV,BKK,14u 50m ,1 stop ,2023-04-16,12:45,7:35,€ 475 
+Etihad Airways,TLV,BKK,14u 00m ,1 stop ,2023-04-16,14:20,8:20,€ 587 
+Emirates,TLV,BKK,12u 40m ,1 stop ,2023-04-16,19:35,12:15,€ 615 
+Emirates,TLV,BKK,13u 20m ,1 stop ,2023-04-16,19:35,12:55,€ 615 
+Emirates,TLV,BKK,13u 10m ,1 stop ,2023-04-16,1:45,18:55,€ 559 
+Emirates,TLV,BKK,14u 10m ,1 stop ,2023-04-16,13:25,7:35,€ 615 
+Emirates,TLV,BKK,15u 00m ,1 stop ,2023-04-16,23:55,18:55,€ 615 
+Emirates,TLV,BKK,16u 35m ,1 stop ,2023-04-16,11:00,7:35,€ 615 
+Thai Airways,TLV,BKK,11u 25m ,direct ,2023-04-16,22:35,14:00,€ 819 
+Ethiopian Air,TLV,BKK,22u 00m ,1 stop ,2023-04-16,10:00,12:00,€ 504 
+Emirates,TLV,BKK,18u 50m ,1 stop ,2023-04-16,13:25,12:15,€ 615 
+Emirates,TLV,BKK,19u 20m ,1 stop ,2023-04-16,19:35,18:55,€ 615 
+Emirates,TLV,BKK,19u 30m ,1 stop ,2023-04-16,12:45,12:15,€ 615 
+Emirates,TLV,BKK,14u 50m ,1 stop ,2023-04-17,12:45,7:35,€ 475 
+EL AL,TLV,BKK,11u 25m ,direct ,2023-04-17,22:35,14:00,€ 456 
+Royal Jordanian,TLV,BKK,16u 05m ,1 stop ,2023-04-17,19:10,15:15,€ 439 
+Emirates,TLV,BKK,12u 40m ,1 stop ,2023-04-17,19:35,12:15,€ 517 
+Emirates,TLV,BKK,14u 50m ,1 stop ,2023-04-17,12:45,7:35,€ 475 
+Etihad Airways,TLV,BKK,13u 50m ,1 stop ,2023-04-17,14:30,8:20,€ 501 
+Emirates,TLV,BKK,13u 20m ,1 stop ,2023-04-17,19:35,12:55,€ 517 
+Thai Airways,TLV,BKK,11u 25m ,direct ,2023-04-17,22:35,14:00,€ 716 
+Emirates,TLV,BKK,15u 00m ,1 stop ,2023-04-17,23:55,18:55,€ 517 
+Emirates,TLV,BKK,19u 20m ,1 stop ,2023-04-17,19:35,18:55,€ 517 
+Emirates,TLV,BKK,19u 30m ,1 stop ,2023-04-17,12:45,12:15,€ 517 
+Emirates,TLV,BKK,16u 35m ,1 stop ,2023-04-17,11:00,7:35,€ 559 
+Emirates,TLV,BKK,13u 10m ,1 stop ,2023-04-17,1:45,18:55,€ 615 
+Gulf Air,TLV,BKK,20u 10m ,1 stop ,2023-04-17,9:20,9:30,€ 494 
+Ethiopian Air,TLV,BKK,23u 15m ,1 stop ,2023-04-17,10:00,13:15,€ 504 
+Emirates,TLV,BKK,20u 10m ,1 stop ,2023-04-17,12:45,12:55,€ 517 
+Emirates,TLV,BKK,14u 50m ,1 stop ,2023-04-18,12:45,7:35,€ 475 
+EL AL,TLV,BKK,11u 25m ,direct ,2023-04-18,23:45,15:10,€ 408 
+"BlueBird Airways, Scoot",TLV,BKK,30u 50m ,2 stops ,2023-04-18,8:10,19:00,€ 325 
+Royal Jordanian,TLV,BKK,10u 40m ,1 stop ,2023-04-18,0:35,15:15,€ 418 
+Emirates,TLV,BKK,12u 40m ,1 stop ,2023-04-18,19:35,12:15,€ 498 
+Emirates,TLV,BKK,13u 20m ,1 stop ,2023-04-18,19:35,12:55,€ 498 
+Emirates,TLV,BKK,14u 50m ,1 stop ,2023-04-18,12:45,7:35,€ 458 
+Ethiopian Air,TLV,BKK,16u 25m ,1 stop ,2023-04-18,15:35,12:00,€ 489 
+Emirates,TLV,BKK,13u 10m ,1 stop ,2023-04-18,1:45,18:55,€ 498 
+Thai Airways,TLV,BKK,11u 25m ,direct ,2023-04-18,23:45,15:10,€ 630 
+Gulf Air,TLV,BKK,17u 55m ,2 stops ,2023-04-18,17:40,15:35,€ 405 
+Air India,TLV,BKK,17u 25m ,1 stop ,2023-04-18,22:10,19:35,€ 447 
+Emirates,TLV,BKK,15u 00m ,1 stop ,2023-04-18,23:55,18:55,€ 498 
+EL AL,TLV,BKK,15u 55m ,1 stop ,2023-04-18,0:45,20:40,€ 558 
+"EL AL, Bangkok Airways",TLV,BKK,15u 55m ,1 stop ,2023-04-18,0:45,20:40,€ 564 
+Turkish Airlines,TLV,BKK,14u 15m ,1 stop ,2023-04-18,12:05,6:20,€ 703 
+Meerdere maatschappijen,TLV,BKK,17u 40m ,2 stops ,2023-04-18,6:40,4:20,€ 472 
+Emirates,TLV,BKK,12u 40m ,1 stop ,2023-04-19,19:35,12:15,€ 475 
+EL AL,TLV,BKK,11u 25m ,direct ,2023-04-19,23:45,15:10,€ 413 
+Emirates,TLV,BKK,12u 40m ,1 stop ,2023-04-19,19:35,12:15,€ 465 
+Emirates,TLV,BKK,13u 20m ,1 stop ,2023-04-19,19:35,12:55,€ 465 
+Thai Airways,TLV,BKK,11u 25m ,direct ,2023-04-19,23:45,15:10,€ 630 
+Emirates,TLV,BKK,14u 50m ,1 stop ,2023-04-19,12:45,7:35,€ 465 
+Emirates,TLV,BKK,13u 10m ,1 stop ,2023-04-19,1:45,18:55,€ 508 
+Royal Jordanian,TLV,BKK,16u 05m ,1 stop ,2023-04-19,19:10,15:15,€ 418 
+Emirates,TLV,BKK,15u 00m ,1 stop ,2023-04-19,23:55,18:55,€ 508 
+Emirates,TLV,BKK,14u 10m ,1 stop ,2023-04-19,13:25,7:35,€ 549 
+Turkish Airlines,TLV,BKK,14u 15m ,1 stop ,2023-04-19,12:05,6:20,€ 704 
+Etihad Airways,TLV,BKK,14u 00m ,1 stop ,2023-04-19,14:20,8:20,€ 772 
+Emirates,TLV,BKK,19u 30m ,1 stop ,2023-04-19,12:45,12:15,€ 465 
+Emirates,TLV,BKK,20u 10m ,1 stop ,2023-04-19,12:45,12:55,€ 465 
+Emirates,TLV,BKK,19u 20m ,1 stop ,2023-04-19,19:35,18:55,€ 506 
+Emirates,TLV,BKK,16u 35m ,1 stop ,2023-04-19,11:00,7:35,€ 549 
+Cathay Pacific,TLV,BKK,15u 25m ,1 stop ,2023-04-20,14:35,10:00,€ 527 
+EL AL,TLV,BKK,11u 25m ,direct ,2023-04-20,23:45,15:10,€ 410 
+"Wizz Air Abu Dhabi, GoFirst",TLV,BKK,22u 50m ,2 stops ,2023-04-20,10:10,13:00,€ 395 
+Royal Jordanian,TLV,BKK,10u 40m ,1 stop ,2023-04-20,0:35,15:15,€ 418 
+Emirates,TLV,BKK,13u 20m ,1 stop ,2023-04-20,19:35,12:55,€ 459 
+Emirates,TLV,BKK,14u 50m ,1 stop ,2023-04-20,12:45,7:35,€ 459 
+Emirates,TLV,BKK,15u 00m ,1 stop ,2023-04-20,23:55,18:55,€ 459 
+Emirates,TLV,BKK,13u 10m ,1 stop ,2023-04-20,1:45,18:55,€ 500 
+Cathay Pacific,TLV,BKK,15u 25m ,1 stop ,2023-04-20,14:35,10:00,€ 506 
+Emirates,TLV,BKK,14u 10m ,1 stop ,2023-04-20,13:25,7:35,€ 540 
+Ethiopian Air,TLV,BKK,16u 25m ,1 stop ,2023-04-20,15:35,12:00,€ 489 
+Cathay Pacific,TLV,BKK,16u 55m ,1 stop ,2023-04-20,14:35,11:30,€ 506 
+Emirates,TLV,BKK,16u 35m ,1 stop ,2023-04-20,11:00,7:35,€ 540 
+Turkish Airlines,TLV,BKK,14u 15m ,1 stop ,2023-04-20,12:05,6:20,€ 704 
+Thai Airways,TLV,BKK,11u 25m ,direct ,2023-04-20,23:45,15:10,€ 709 
+Emirates,TLV,BKK,12u 40m ,1 stop ,2023-04-20,19:35,12:15,€ 725 
+Etihad Airways,TLV,BKK,13u 20m ,1 stop ,2023-04-20,15:00,8:20,€ 772 
+Emirates,TLV,BKK,13u 10m ,1 stop ,2023-04-21,1:45,18:55,€ 475 
+Royal Jordanian,TLV,BKK,16u 05m ,1 stop ,2023-04-21,19:10,15:15,€ 418 
+Emirates,TLV,BKK,13u 10m ,1 stop ,2023-04-21,1:45,18:55,€ 461 
+Emirates,TLV,BKK,13u 20m ,1 stop ,2023-04-21,19:35,12:55,€ 461 
+Emirates,TLV,BKK,14u 50m ,1 stop ,2023-04-21,12:45,7:35,€ 461 
+Royal Jordanian,TLV,BKK,26u 50m ,1 stop ,2023-04-21,8:25,15:15,€ 418 
+Emirates,TLV,BKK,20u 10m ,1 stop ,2023-04-21,12:45,12:55,€ 461 
+Emirates,TLV,BKK,12u 40m ,1 stop ,2023-04-21,19:35,12:15,€ 543 
+Emirates,TLV,BKK,25u 50m ,1 stop ,2023-04-21,1:45,7:35,€ 461 
+Emirates,TLV,BKK,27u 40m ,1 stop ,2023-04-21,23:55,7:35,€ 466 
+Emirates,TLV,BKK,26u 10m ,1 stop ,2023-04-21,12:45,18:55,€ 475 
+Ethiopian Air,TLV,BKK,23u 15m ,1 stop ,2023-04-21,10:00,13:15,€ 489 
+Emirates,TLV,BKK,15u 00m ,1 stop ,2023-04-21,23:55,18:55,€ 502 
+Emirates,TLV,BKK,19u 20m ,1 stop ,2023-04-21,19:35,18:55,€ 502 
+Emirates,TLV,BKK,19u 30m ,1 stop ,2023-04-21,12:45,12:15,€ 502 
+Emirates,TLV,BKK,14u 10m ,1 stop ,2023-04-21,13:25,7:35,€ 598 
+Emirates,TLV,BKK,13u 20m ,1 stop ,2023-04-22,19:35,12:55,€ 475 
+EL AL,TLV,BKK,11u 25m ,direct ,2023-04-22,22:35,14:00,€ 451 
+Royal Jordanian,TLV,BKK,10u 40m ,1 stop ,2023-04-22,0:35,15:15,€ 418 
+Emirates,TLV,BKK,13u 20m ,1 stop ,2023-04-22,19:35,12:55,€ 465 
+Emirates,TLV,BKK,12u 40m ,1 stop ,2023-04-22,19:35,12:15,€ 505 
+Thai Airways,TLV,BKK,11u 25m ,direct ,2023-04-22,22:35,14:00,€ 709 
+Emirates,TLV,BKK,14u 50m ,1 stop ,2023-04-22,12:45,7:35,€ 465 
+Emirates,TLV,BKK,15u 00m ,1 stop ,2023-04-22,23:55,18:55,€ 466 
+Emirates,TLV,BKK,13u 10m ,1 stop ,2023-04-22,1:45,18:55,€ 508 
+Air India,TLV,BKK,17u 25m ,1 stop ,2023-04-22,22:10,19:35,€ 451 
+Emirates,TLV,BKK,19u 20m ,1 stop ,2023-04-22,19:35,18:55,€ 465 
+Emirates,TLV,BKK,20u 10m ,1 stop ,2023-04-22,12:45,12:55,€ 465 
+Ethiopian Air,TLV,BKK,17u 40m ,1 stop ,2023-04-22,15:35,13:15,€ 489 
+Emirates,TLV,BKK,14u 10m ,1 stop ,2023-04-22,13:25,7:35,€ 603 
+Emirates,TLV,BKK,19u 30m ,1 stop ,2023-04-22,12:45,12:15,€ 505 
+Emirates,TLV,BKK,16u 35m ,1 stop ,2023-04-22,11:00,7:35,€ 603 
+Emirates,TLV,BKK,13u 20m ,1 stop ,2023-04-23,19:35,12:55,€ 475 
+EL AL,TLV,BKK,11u 25m ,direct ,2023-04-23,22:35,14:00,€ 413 
+Meerdere maatschappijen,TLV,BKK,32u 20m ,3 stops ,2023-04-23,7:00,19:20,€ 333 
+Royal Jordanian,TLV,BKK,10u 40m ,1 stop ,2023-04-23,0:35,15:15,€ 418 
+"EL AL, Scoot",TLV,BKK,21u 30m ,2 stops ,2023-04-23,7:00,8:30,€ 380 
+"EL AL, Scoot",TLV,BKK,22u 50m ,2 stops ,2023-04-23,7:00,9:50,€ 380 
+Emirates,TLV,BKK,13u 10m ,1 stop ,2023-04-23,1:45,18:55,€ 463 
+Emirates,TLV,BKK,13u 20m ,1 stop ,2023-04-23,19:35,12:55,€ 463 
+Emirates,TLV,BKK,14u 50m ,1 stop ,2023-04-23,12:45,7:35,€ 463 
+Thai Airways,TLV,BKK,11u 25m ,direct ,2023-04-23,22:35,14:00,€ 630 
+"BlueBird Airways, Scoot",TLV,BKK,20u 10m ,2 stops ,2023-04-23,8:20,8:30,€ 402 
+Air India,TLV,BKK,17u 25m ,1 stop ,2023-04-23,22:10,19:35,€ 445 
+Emirates,TLV,BKK,14u 10m ,1 stop ,2023-04-23,13:25,7:35,€ 503 
+Cathay Pacific,TLV,BKK,15u 25m ,1 stop ,2023-04-23,14:35,10:00,€ 510 
+Emirates,TLV,BKK,12u 40m ,1 stop ,2023-04-23,19:35,12:15,€ 544 
+"BlueBird Airways, Scoot",TLV,BKK,21u 30m ,2 stops ,2023-04-23,8:20,9:50,€ 402 
+"Hahn Air Systems, Scoot",TLV,BKK,20u 10m ,2 stops ,2023-04-23,8:20,8:30,€ 433 
+Emirates,TLV,BKK,12u 40m ,1 stop ,2023-04-24,19:35,12:15,€ 475 
+EL AL,TLV,BKK,11u 25m ,direct ,2023-04-24,22:35,14:00,€ 413 
+Meerdere maatschappijen,TLV,BKK,39u 35m ,3 stops ,2023-04-24,21:55,17:30,€ 364 
+Royal Jordanian,TLV,BKK,16u 05m ,1 stop ,2023-04-24,19:10,15:15,€ 418 
+Meerdere maatschappijen,TLV,BKK,14u 05m ,2 stops ,2023-04-24,13:40,7:45,€ 423 
+Emirates,TLV,BKK,12u 40m ,1 stop ,2023-04-24,19:35,12:15,€ 466 
+Emirates,TLV,BKK,13u 20m ,1 stop ,2023-04-24,19:35,12:55,€ 466 
+Emirates,TLV,BKK,14u 50m ,1 stop ,2023-04-24,12:45,7:35,€ 466 
+Thai Airways,TLV,BKK,11u 25m ,direct ,2023-04-24,22:35,14:00,€ 630 
+Royal Jordanian,TLV,BKK,26u 50m ,1 stop ,2023-04-24,8:25,15:15,€ 418 
+Emirates,TLV,BKK,15u 00m ,1 stop ,2023-04-24,23:55,18:55,€ 466 
+Emirates,TLV,BKK,19u 20m ,1 stop ,2023-04-24,19:35,18:55,€ 466 
+Emirates,TLV,BKK,13u 10m ,1 stop ,2023-04-24,1:45,18:55,€ 507 
+Emirates,TLV,BKK,14u 10m ,1 stop ,2023-04-24,13:25,7:35,€ 507 
+Emirates,TLV,BKK,19u 30m ,1 stop ,2023-04-24,12:45,12:15,€ 466 
+Emirates,TLV,BKK,20u 10m ,1 stop ,2023-04-24,12:45,12:55,€ 466 
+Emirates,TLV,BKK,26u 10m ,1 stop ,2023-04-24,12:45,18:55,€ 467 
+Emirates,TLV,BKK,12u 40m ,1 stop ,2023-04-25,19:35,12:15,€ 475 
+EL AL,TLV,BKK,11u 25m ,direct ,2023-04-25,23:45,15:10,€ 412 
+Gulf Air,TLV,BKK,17u 55m ,2 stops ,2023-04-25,17:40,15:35,€ 384 
+Royal Jordanian,TLV,BKK,10u 40m ,1 stop ,2023-04-25,0:35,15:15,€ 418 
+Emirates,TLV,BKK,12u 40m ,1 stop ,2023-04-25,19:35,12:15,€ 462 
+Air India,TLV,BKK,17u 25m ,1 stop ,2023-04-25,22:10,19:35,€ 450 
+Emirates,TLV,BKK,13u 20m ,1 stop ,2023-04-25,19:35,12:55,€ 462 
+Emirates,TLV,BKK,14u 50m ,1 stop ,2023-04-25,12:45,7:35,€ 462 
+Emirates,TLV,BKK,13u 10m ,1 stop ,2023-04-25,1:45,18:55,€ 466 
+Emirates,TLV,BKK,15u 00m ,1 stop ,2023-04-25,23:55,18:55,€ 466 
+Ethiopian Air,TLV,BKK,16u 25m ,1 stop ,2023-04-25,15:35,12:00,€ 489 
+Cathay Pacific,TLV,BKK,15u 25m ,1 stop ,2023-04-25,14:35,10:00,€ 509 
+Thai Airways,TLV,BKK,11u 25m ,direct ,2023-04-25,23:45,15:10,€ 630 
+Emirates,TLV,BKK,19u 20m ,1 stop ,2023-04-25,19:35,18:55,€ 462 
+Emirates,TLV,BKK,19u 30m ,1 stop ,2023-04-25,12:45,12:15,€ 462 
+Emirates,TLV,BKK,20u 10m ,1 stop ,2023-04-25,12:45,12:55,€ 462 
+Emirates,TLV,BKK,12u 40m ,1 stop ,2023-04-26,19:35,12:15,€ 475 
+EL AL,TLV,BKK,11u 25m ,direct ,2023-04-26,23:45,15:10,€ 412 
+"Wizz Air, Scoot",TLV,BKK,43u 10m ,3 stops ,2023-04-26,19:50,19:00,€ 385 
+Royal Jordanian,TLV,BKK,16u 05m ,1 stop ,2023-04-26,19:10,15:15,€ 418 
+Emirates,TLV,BKK,12u 40m ,1 stop ,2023-04-26,19:35,12:15,€ 461 
+Emirates,TLV,BKK,13u 20m ,1 stop ,2023-04-26,19:35,12:55,€ 461 
+Emirates,TLV,BKK,14u 50m ,1 stop ,2023-04-26,12:45,7:35,€ 461 
+Emirates,TLV,BKK,13u 10m ,1 stop ,2023-04-26,1:45,18:55,€ 466 
+Etihad Airways,TLV,BKK,14u 00m ,1 stop ,2023-04-26,14:20,8:20,€ 474 
+Thai Airways,TLV,BKK,11u 25m ,direct ,2023-04-26,23:45,15:10,€ 630 
+Royal Jordanian,TLV,BKK,26u 50m ,1 stop ,2023-04-26,8:25,15:15,€ 418 
+Emirates,TLV,BKK,19u 20m ,1 stop ,2023-04-26,19:35,18:55,€ 461 
+Emirates,TLV,BKK,15u 00m ,1 stop ,2023-04-26,23:55,18:55,€ 466 
+Emirates,TLV,BKK,19u 30m ,1 stop ,2023-04-26,12:45,12:15,€ 461 
+Emirates,TLV,BKK,20u 10m ,1 stop ,2023-04-26,12:45,12:55,€ 461 
+Ethiopian Air,TLV,BKK,23u 15m ,1 stop ,2023-04-26,10:00,13:15,€ 489 
+Emirates,TLV,BKK,14u 10m ,1 stop ,2023-04-26,13:25,7:35,€ 508 
+Cathay Pacific,TLV,BKK,15u 25m ,1 stop ,2023-04-27,14:35,10:00,€ 527 
+EL AL,TLV,BKK,11u 25m ,direct ,2023-04-27,23:45,15:10,€ 413 
+Royal Jordanian,TLV,BKK,10u 40m ,1 stop ,2023-04-27,0:35,15:15,€ 418 
+Cathay Pacific,TLV,BKK,15u 25m ,1 stop ,2023-04-27,14:35,10:00,€ 527 
+Cathay Pacific,TLV,BKK,16u 55m ,1 stop ,2023-04-27,14:35,11:30,€ 527 
+Thai Airways,TLV,BKK,11u 25m ,direct ,2023-04-27,23:45,15:10,€ 630 
+Cathay Pacific,TLV,BKK,21u 55m ,1 stop ,2023-04-27,14:35,16:30,€ 527 
+Cathay Pacific,TLV,BKK,23u 25m ,1 stop ,2023-04-27,14:35,18:00,€ 527 
+"Pegasus Airlines, Qatar Airways",TLV,BKK,21u 55m ,2 stops ,2023-04-27,11:15,13:10,€ 562 
+"Pegasus Airlines, Qatar Airways",TLV,BKK,21u 05m ,2 stops ,2023-04-27,11:15,12:20,€ 604 
+"Pegasus Airlines, Qatar Airways",TLV,BKK,19u 20m ,2 stops ,2023-04-27,6:55,6:15,€ 704 
+"Pegasus Airlines, Qatar Airways",TLV,BKK,16u 55m ,2 stops ,2023-04-27,16:15,13:10,€ 753 
+"Pegasus Airlines, Qatar Airways",TLV,BKK,21u 05m ,2 stops ,2023-04-27,5:10,6:15,€ 704 
+"Pegasus Airlines, Qatar Airways",TLV,BKK,21u 55m ,2 stops ,2023-04-27,11:15,13:10,€ 753 
+Austrian Airlines,TLV,BKK,16u 10m ,1 stop ,2023-04-27,15:20,11:30,€ 1004 
+Lufthansa,TLV,BKK,17u 00m ,1 stop ,2023-04-27,17:10,14:10,€ 1017 
+Emirates,TLV,BKK,12u 40m ,1 stop ,2023-04-28,19:35,12:15,€ 475 
+Etihad Airways,TLV,BKK,14u 00m ,1 stop ,2023-04-28,14:20,8:20,€ 380 
+Royal Jordanian,TLV,BKK,16u 05m ,1 stop ,2023-04-28,19:10,15:15,€ 418 
+Emirates,TLV,BKK,12u 40m ,1 stop ,2023-04-28,19:35,12:15,€ 458 
+Emirates,TLV,BKK,13u 20m ,1 stop ,2023-04-28,19:35,12:55,€ 458 
+Emirates,TLV,BKK,14u 50m ,1 stop ,2023-04-28,12:45,7:35,€ 458 
+Emirates,TLV,BKK,13u 10m ,1 stop ,2023-04-28,1:45,18:55,€ 466 
+Royal Jordanian,TLV,BKK,26u 50m ,1 stop ,2023-04-28,8:25,15:15,€ 418 
+Emirates,TLV,BKK,19u 20m ,1 stop ,2023-04-28,19:35,18:55,€ 458 
+Emirates,TLV,BKK,19u 30m ,1 stop ,2023-04-28,12:45,12:15,€ 458 
+Emirates,TLV,BKK,20u 10m ,1 stop ,2023-04-28,12:45,12:55,€ 458 
+Emirates,TLV,BKK,26u 10m ,1 stop ,2023-04-28,12:45,18:55,€ 458 
+Emirates,TLV,BKK,25u 50m ,1 stop ,2023-04-28,1:45,7:35,€ 465 
+Emirates,TLV,BKK,15u 00m ,1 stop ,2023-04-28,23:55,18:55,€ 466 
+"Royal Jordanian, Qatar Airways",TLV,BKK,17u 50m ,2 stops ,2023-04-28,8:25,6:15,€ 529 
+"EL AL, EVA Air",TLV,BKK,23u 20m ,1 stop ,2023-04-28,6:40,10:00,€ 546 
+Emirates,TLV,BKK,12u 40m ,1 stop ,2023-04-29,19:35,12:15,€ 475 
+EL AL,TLV,BKK,11u 25m ,direct ,2023-04-29,22:35,14:00,€ 410 
+"Ryanair, Scoot",TLV,BKK,29u 50m ,3 stops ,2023-04-29,22:40,8:30,€ 321 
+Royal Jordanian,TLV,BKK,10u 40m ,1 stop ,2023-04-29,0:35,15:15,€ 418 
+Emirates,TLV,BKK,12u 40m ,1 stop ,2023-04-29,19:35,12:15,€ 465 
+Thai Airways,TLV,BKK,11u 25m ,direct ,2023-04-29,22:35,14:00,€ 629 
+Air India,TLV,BKK,17u 25m ,1 stop ,2023-04-29,22:10,19:35,€ 445 
+Emirates,TLV,BKK,13u 10m ,1 stop ,2023-04-29,1:45,18:55,€ 465 
+Emirates,TLV,BKK,13u 20m ,1 stop ,2023-04-29,19:35,12:55,€ 465 
+Etihad Airways,TLV,BKK,14u 00m ,1 stop ,2023-04-29,14:20,8:20,€ 474 
+Emirates,TLV,BKK,14u 50m ,1 stop ,2023-04-29,12:45,7:35,€ 465 
+Emirates,TLV,BKK,15u 00m ,1 stop ,2023-04-29,23:55,18:55,€ 465 
+Emirates,TLV,BKK,19u 20m ,1 stop ,2023-04-29,19:35,18:55,€ 465 
+Emirates,TLV,BKK,19u 30m ,1 stop ,2023-04-29,12:45,12:15,€ 465 
+Emirates,TLV,BKK,20u 10m ,1 stop ,2023-04-29,12:45,12:55,€ 465 
+Ethiopian Air,TLV,BKK,17u 40m ,1 stop ,2023-04-29,15:35,13:15,€ 487 
+Emirates,TLV,BKK,14u 10m ,1 stop ,2023-04-29,13:25,7:35,€ 506 
+Emirates,TLV,BKK,13u 20m ,1 stop ,2023-04-30,19:35,12:55,€ 475 
+EL AL,TLV,BKK,11u 15m ,direct ,2023-04-30,22:45,14:00,€ 411 
+"Aegean Airlines, Scoot",TLV,BKK,18u 30m ,2 stops ,2023-04-30,10:00,8:30,€ 365 
+"Arkia, Scoot",TLV,BKK,20u 40m ,2 stops ,2023-04-30,7:50,8:30,€ 369 
+Royal Jordanian,TLV,BKK,10u 40m ,1 stop ,2023-04-30,0:35,15:15,€ 420 
+"Aegean Airlines, Scoot",TLV,BKK,19u 50m ,2 stops ,2023-04-30,10:00,9:50,€ 375 
+Emirates,TLV,BKK,13u 20m ,1 stop ,2023-04-30,19:35,12:55,€ 461 
+Emirates,TLV,BKK,14u 50m ,1 stop ,2023-04-30,12:45,7:35,€ 461 
+Thai Airways,TLV,BKK,11u 15m ,direct ,2023-04-30,22:45,14:00,€ 629 
+"Arkia, Scoot",TLV,BKK,22u 00m ,2 stops ,2023-04-30,7:50,9:50,€ 380 
+Air India,TLV,BKK,17u 25m ,1 stop ,2023-04-30,22:10,19:35,€ 445 
+Emirates,TLV,BKK,19u 20m ,1 stop ,2023-04-30,19:35,18:55,€ 461 
+Emirates,TLV,BKK,19u 30m ,1 stop ,2023-04-30,12:45,12:15,€ 461 
+Etihad Airways,TLV,BKK,14u 00m ,1 stop ,2023-04-30,14:20,8:20,€ 474 
+Emirates,TLV,BKK,13u 10m ,1 stop ,2023-04-30,1:45,18:55,€ 502 
+"EL AL, Scoot",TLV,BKK,21u 30m ,2 stops ,2023-04-30,7:00,8:30,€ 407 
+Emirates,TLV,BKK,12u 40m ,1 stop ,2023-05-01,19:35,12:15,€ 475 
+EL AL,TLV,BKK,11u 15m ,direct ,2023-05-01,22:45,14:00,€ 409 
+Meerdere maatschappijen,TLV,BKK,40u 35m ,3 stops ,2023-05-01,20:55,17:30,€ 341 
+Etihad Airways,TLV,BKK,13u 50m ,1 stop ,2023-05-01,14:30,8:20,€ 448 
+Emirates,TLV,BKK,12u 40m ,1 stop ,2023-05-01,19:35,12:15,€ 459 
+Emirates,TLV,BKK,13u 20m ,1 stop ,2023-05-01,19:35,12:55,€ 459 
+Royal Jordanian,TLV,BKK,16u 05m ,1 stop ,2023-05-01,19:10,15:15,€ 418 
+Emirates,TLV,BKK,14u 50m ,1 stop ,2023-05-01,12:45,7:35,€ 459 
+Emirates,TLV,BKK,13u 10m ,1 stop ,2023-05-01,1:45,18:55,€ 465 
+Emirates,TLV,BKK,14u 10m ,1 stop ,2023-05-01,13:25,7:35,€ 508 
+Emirates,TLV,BKK,15u 00m ,1 stop ,2023-05-01,23:55,18:55,€ 465 
+Emirates,TLV,BKK,16u 35m ,1 stop ,2023-05-01,11:00,7:35,€ 508 
+"Royal Jordanian, Qatar Airways",TLV,BKK,14u 20m ,2 stops ,2023-05-01,0:35,18:55,€ 527 
+Gulf Air,TLV,BKK,20u 10m ,1 stop ,2023-05-01,9:20,9:30,€ 450 
+Emirates,TLV,BKK,19u 20m ,1 stop ,2023-05-01,19:35,18:55,€ 459 
+Emirates,TLV,BKK,19u 30m ,1 stop ,2023-05-01,12:45,12:15,€ 459 
+Emirates,TLV,BKK,20u 10m ,1 stop ,2023-05-01,12:45,12:55,€ 459 
+Cathay Pacific,TLV,BKK,15u 25m ,1 stop ,2023-05-02,14:35,10:00,€ 527 
+EL AL,TLV,BKK,11u 25m ,direct ,2023-05-02,22:35,14:00,€ 410 
+"Aegean Airlines, Scoot",TLV,BKK,23u 20m ,2 stops ,2023-05-02,5:10,8:30,€ 375 
+Royal Jordanian,TLV,BKK,10u 40m ,1 stop ,2023-05-02,0:35,15:15,€ 418 
+Etihad Airways,TLV,BKK,14u 00m ,1 stop ,2023-05-02,14:20,8:20,€ 414 
+Emirates,TLV,BKK,12u 40m ,1 stop ,2023-05-02,19:35,12:15,€ 460 
+Emirates,TLV,BKK,13u 20m ,1 stop ,2023-05-02,19:35,12:55,€ 460 
+Emirates,TLV,BKK,13u 10m ,1 stop ,2023-05-02,1:45,18:55,€ 460 
+Emirates,TLV,BKK,14u 50m ,1 stop ,2023-05-02,12:45,7:35,€ 460 
+Emirates,TLV,BKK,14u 10m ,1 stop ,2023-05-02,13:25,7:35,€ 500 
+Cathay Pacific,TLV,BKK,15u 25m ,1 stop ,2023-05-02,14:35,10:00,€ 507 
+Gulf Air,TLV,BKK,17u 55m ,2 stops ,2023-05-02,17:40,15:35,€ 383 
+Air India,TLV,BKK,17u 25m ,1 stop ,2023-05-02,22:10,19:35,€ 445 
+Emirates,TLV,BKK,15u 00m ,1 stop ,2023-05-02,23:55,18:55,€ 460 
+Ethiopian Air,TLV,BKK,16u 25m ,1 stop ,2023-05-02,15:35,12:00,€ 487 
+Emirates,TLV,BKK,16u 35m ,1 stop ,2023-05-02,11:00,7:35,€ 500 
+Cathay Pacific,TLV,BKK,16u 55m ,1 stop ,2023-05-02,14:35,11:30,€ 507 
+Emirates,TLV,BKK,13u 20m ,1 stop ,2023-05-03,19:35,12:55,€ 475 
+EL AL,TLV,BKK,11u 15m ,direct ,2023-05-03,22:45,14:00,€ 411 
+Meerdere maatschappijen,TLV,BKK,33u 40m ,3 stops ,2023-05-03,18:50,8:30,€ 385 
+Etihad Airways,TLV,BKK,14u 00m ,1 stop ,2023-05-03,14:20,8:20,€ 414 
+Emirates,TLV,BKK,12u 40m ,1 stop ,2023-05-03,19:35,12:15,€ 461 
+Emirates,TLV,BKK,13u 20m ,1 stop ,2023-05-03,19:35,12:55,€ 461 
+Royal Jordanian,TLV,BKK,16u 05m ,1 stop ,2023-05-03,19:10,15:15,€ 418 
+Emirates,TLV,BKK,14u 50m ,1 stop ,2023-05-03,12:45,7:35,€ 461 
+Emirates,TLV,BKK,13u 10m ,1 stop ,2023-05-03,1:45,18:55,€ 465 
+Emirates,TLV,BKK,14u 10m ,1 stop ,2023-05-03,13:25,7:35,€ 507 
+Emirates,TLV,BKK,15u 00m ,1 stop ,2023-05-03,23:55,18:55,€ 465 
+Emirates,TLV,BKK,16u 35m ,1 stop ,2023-05-03,11:00,7:35,€ 507 
+Turkish Airlines,TLV,BKK,14u 15m ,1 stop ,2023-05-03,12:05,6:20,€ 702 
+Emirates,TLV,BKK,19u 20m ,1 stop ,2023-05-03,19:35,18:55,€ 461 
+Emirates,TLV,BKK,19u 30m ,1 stop ,2023-05-03,12:45,12:15,€ 461 
+Emirates,TLV,BKK,20u 10m ,1 stop ,2023-05-03,12:45,12:55,€ 461 
+Emirates,TLV,BKK,18u 50m ,1 stop ,2023-05-03,13:25,12:15,€ 507 
+Emirates,TLV,BKK,12u 40m ,1 stop ,2023-05-04,19:35,12:15,€ 475 
+EL AL,TLV,BKK,11u 25m ,direct ,2023-05-04,22:35,14:00,€ 410 
+Royal Jordanian,TLV,BKK,10u 40m ,1 stop ,2023-05-04,0:35,15:15,€ 418 
+Etihad Airways,TLV,BKK,13u 20m ,1 stop ,2023-05-04,15:00,8:20,€ 437 
+Emirates,TLV,BKK,12u 40m ,1 stop ,2023-05-04,19:35,12:15,€ 460 
+Emirates,TLV,BKK,13u 20m ,1 stop ,2023-05-04,19:35,12:55,€ 460 
+Emirates,TLV,BKK,13u 10m ,1 stop ,2023-05-04,1:45,18:55,€ 460 
+Emirates,TLV,BKK,14u 50m ,1 stop ,2023-05-04,12:45,7:35,€ 460 
+Emirates,TLV,BKK,14u 10m ,1 stop ,2023-05-04,13:25,7:35,€ 500 
+Emirates,TLV,BKK,15u 00m ,1 stop ,2023-05-04,23:55,18:55,€ 460 
+Emirates,TLV,BKK,19u 20m ,1 stop ,2023-05-04,19:35,18:55,€ 460 
+Ethiopian Air,TLV,BKK,16u 25m ,1 stop ,2023-05-04,15:35,12:00,€ 487 
+Emirates,TLV,BKK,16u 35m ,1 stop ,2023-05-04,11:00,7:35,€ 500 
+Cathay Pacific,TLV,BKK,16u 55m ,1 stop ,2023-05-04,14:35,11:30,€ 507 
+Thai Airways,TLV,BKK,11u 25m ,direct ,2023-05-04,22:35,14:00,€ 629 
+Emirates,TLV,BKK,19u 30m ,1 stop ,2023-05-04,12:45,12:15,€ 460 
+Emirates,TLV,BKK,12u 40m ,1 stop ,2023-05-05,19:35,12:15,€ 475 
+Emirates,TLV,BKK,12u 40m ,1 stop ,2023-05-05,19:35,12:15,€ 460 
+Etihad Airways,TLV,BKK,14u 00m ,1 stop ,2023-05-05,14:20,8:20,€ 414 
+Emirates,TLV,BKK,13u 20m ,1 stop ,2023-05-05,19:35,12:55,€ 460 
+Royal Jordanian,TLV,BKK,16u 05m ,1 stop ,2023-05-05,19:10,15:15,€ 418 
+Emirates,TLV,BKK,14u 50m ,1 stop ,2023-05-05,12:45,7:35,€ 460 
+Emirates,TLV,BKK,13u 10m ,1 stop ,2023-05-05,1:45,18:55,€ 464 
+Emirates,TLV,BKK,14u 10m ,1 stop ,2023-05-05,13:25,7:35,€ 507 
+Emirates,TLV,BKK,19u 20m ,1 stop ,2023-05-05,19:35,18:55,€ 460 
+Emirates,TLV,BKK,15u 00m ,1 stop ,2023-05-05,23:55,18:55,€ 464 
+Emirates,TLV,BKK,16u 35m ,1 stop ,2023-05-05,11:00,7:35,€ 507 
+Emirates,TLV,BKK,19u 30m ,1 stop ,2023-05-05,12:45,12:15,€ 460 
+Emirates,TLV,BKK,20u 10m ,1 stop ,2023-05-05,12:45,12:55,€ 460 
+Emirates,TLV,BKK,18u 50m ,1 stop ,2023-05-05,13:25,12:15,€ 507 
+Emirates,TLV,BKK,19u 30m ,1 stop ,2023-05-05,13:25,12:55,€ 507 
+Emirates,TLV,BKK,21u 15m ,1 stop ,2023-05-05,11:00,12:15,€ 507 
+Emirates,TLV,BKK,12u 40m ,1 stop ,2023-05-06,19:35,12:15,€ 475 
+Royal Jordanian,TLV,BKK,10u 40m ,1 stop ,2023-05-06,0:35,15:15,€ 418 
+"Ryanair, Scoot",TLV,BKK,34u 45m ,3 stops ,2023-05-06,17:45,8:30,€ 338 
+EL AL,TLV,BKK,11u 15m ,direct ,2023-05-06,22:45,14:00,€ 448 
+Emirates,TLV,BKK,12u 40m ,1 stop ,2023-05-06,19:35,12:15,€ 462 
+Etihad Airways,TLV,BKK,14u 00m ,1 stop ,2023-05-06,14:20,8:20,€ 414 
+Emirates,TLV,BKK,13u 20m ,1 stop ,2023-05-06,19:35,12:55,€ 462 
+Emirates,TLV,BKK,14u 50m ,1 stop ,2023-05-06,12:45,7:35,€ 462 
+Emirates,TLV,BKK,13u 10m ,1 stop ,2023-05-06,1:45,18:55,€ 465 
+Emirates,TLV,BKK,15u 00m ,1 stop ,2023-05-06,23:55,18:55,€ 465 
+Emirates,TLV,BKK,14u 10m ,1 stop ,2023-05-06,13:25,7:35,€ 507 
+Thai Airways,TLV,BKK,11u 15m ,direct ,2023-05-06,22:45,14:00,€ 707 
+Air India,TLV,BKK,17u 25m ,1 stop ,2023-05-06,22:10,19:35,€ 445 
+Emirates,TLV,BKK,19u 20m ,1 stop ,2023-05-06,19:35,18:55,€ 462 
+Emirates,TLV,BKK,19u 30m ,1 stop ,2023-05-06,12:45,12:15,€ 462 
+Ethiopian Air,TLV,BKK,17u 40m ,1 stop ,2023-05-06,15:35,13:15,€ 486 
+Emirates,TLV,BKK,16u 35m ,1 stop ,2023-05-06,11:00,7:35,€ 507 
+Emirates,TLV,BKK,14u 50m ,1 stop ,2023-05-07,12:45,7:35,€ 475 
+EL AL,TLV,BKK,11u 15m ,direct ,2023-05-07,22:45,14:00,€ 423 
+Etihad Airways,TLV,BKK,14u 00m ,1 stop ,2023-05-07,14:20,8:20,€ 437 
+Emirates,TLV,BKK,14u 50m ,1 stop ,2023-05-07,12:45,7:35,€ 475 
+Emirates,TLV,BKK,13u 10m ,1 stop ,2023-05-07,1:45,18:55,€ 517 
+Emirates,TLV,BKK,15u 00m ,1 stop ,2023-05-07,23:55,18:55,€ 517 
+Emirates,TLV,BKK,12u 40m ,1 stop ,2023-05-07,19:35,12:15,€ 615 
+Emirates,TLV,BKK,13u 20m ,1 stop ,2023-05-07,19:35,12:55,€ 615 
+Emirates,TLV,BKK,14u 10m ,1 stop ,2023-05-07,13:25,7:35,€ 615 
+Air India,TLV,BKK,17u 25m ,1 stop ,2023-05-07,22:10,19:35,€ 461 
+Emirates,TLV,BKK,19u 30m ,1 stop ,2023-05-07,12:45,12:15,€ 475 
+Emirates,TLV,BKK,20u 10m ,1 stop ,2023-05-07,12:45,12:55,€ 475 
+"Pegasus Airlines, Qatar Airways",TLV,BKK,19u 20m ,2 stops ,2023-05-07,6:55,6:15,€ 562 
+Emirates,TLV,BKK,16u 35m ,1 stop ,2023-05-07,11:00,7:35,€ 615 
+Emirates,TLV,BKK,26u 10m ,1 stop ,2023-05-07,12:45,18:55,€ 475 
+Ethiopian Air,TLV,BKK,22u 00m ,1 stop ,2023-05-07,10:00,12:00,€ 504 
+Emirates,TLV,BKK,13u 20m ,1 stop ,2023-05-08,19:35,12:55,€ 475 
+EL AL,TLV,BKK,11u 15m ,direct ,2023-05-08,22:45,14:00,€ 411 
+Meerdere maatschappijen,TLV,BKK,42u 05m ,3 stops ,2023-05-08,20:55,19:00,€ 375 
+Etihad Airways,TLV,BKK,13u 50m ,1 stop ,2023-05-08,14:30,8:20,€ 414 
+Emirates,TLV,BKK,13u 20m ,1 stop ,2023-05-08,19:35,12:55,€ 460 
+Emirates,TLV,BKK,12u 40m ,1 stop ,2023-05-08,19:35,12:15,€ 466 
+Royal Jordanian,TLV,BKK,16u 05m ,1 stop ,2023-05-08,19:10,15:15,€ 418 
+Emirates,TLV,BKK,14u 50m ,1 stop ,2023-05-08,12:45,7:35,€ 460 
+Emirates,TLV,BKK,13u 10m ,1 stop ,2023-05-08,1:45,18:55,€ 464 
+Emirates,TLV,BKK,14u 10m ,1 stop ,2023-05-08,13:25,7:35,€ 507 
+Thai Airways,TLV,BKK,11u 15m ,direct ,2023-05-08,22:45,14:00,€ 629 
+Gulf Air,TLV,BKK,20u 10m ,1 stop ,2023-05-08,9:20,9:30,€ 376 
+Emirates,TLV,BKK,15u 00m ,1 stop ,2023-05-08,23:55,18:55,€ 464 
+Emirates,TLV,BKK,16u 35m ,1 stop ,2023-05-08,11:00,7:35,€ 507 
+"Royal Jordanian, Qatar Airways",TLV,BKK,14u 20m ,2 stops ,2023-05-08,0:35,18:55,€ 527 
+Turkish Airlines,TLV,BKK,14u 15m ,1 stop ,2023-05-08,12:05,6:20,€ 692 
+Emirates,TLV,BKK,19u 20m ,1 stop ,2023-05-08,19:35,18:55,€ 460 
+Emirates,TLV,BKK,12u 40m ,1 stop ,2023-05-09,19:35,12:15,€ 475 
+EL AL,TLV,BKK,11u 25m ,direct ,2023-05-09,22:35,14:00,€ 407 
+"Arkia, Scoot",TLV,BKK,32u 00m ,2 stops ,2023-05-09,7:00,19:00,€ 343 
+Royal Jordanian,TLV,BKK,10u 40m ,1 stop ,2023-05-09,0:35,15:15,€ 418 
+Emirates,TLV,BKK,12u 40m ,1 stop ,2023-05-09,19:35,12:15,€ 456 
+Etihad Airways,TLV,BKK,14u 00m ,1 stop ,2023-05-09,14:20,8:20,€ 414 
+Emirates,TLV,BKK,13u 20m ,1 stop ,2023-05-09,19:35,12:55,€ 456 
+Emirates,TLV,BKK,14u 50m ,1 stop ,2023-05-09,12:45,7:35,€ 456 
+Emirates,TLV,BKK,13u 10m ,1 stop ,2023-05-09,1:45,18:55,€ 465 
+Emirates,TLV,BKK,15u 00m ,1 stop ,2023-05-09,23:55,18:55,€ 465 
+Emirates,TLV,BKK,14u 10m ,1 stop ,2023-05-09,13:25,7:35,€ 507 
+Thai Airways,TLV,BKK,11u 25m ,direct ,2023-05-09,22:35,14:00,€ 629 
+Gulf Air,TLV,BKK,17u 55m ,2 stops ,2023-05-09,17:40,15:35,€ 383 
+Air India,TLV,BKK,17u 25m ,1 stop ,2023-05-09,22:10,19:35,€ 445 
+Emirates,TLV,BKK,19u 20m ,1 stop ,2023-05-09,19:35,18:55,€ 456 
+Ethiopian Air,TLV,BKK,16u 25m ,1 stop ,2023-05-09,15:35,12:00,€ 486 
+Cathay Pacific,TLV,BKK,16u 55m ,1 stop ,2023-05-09,14:35,11:30,€ 503 
+Emirates,TLV,BKK,13u 10m ,1 stop ,2023-05-10,1:45,18:55,€ 475 
+EL AL,TLV,BKK,11u 15m ,direct ,2023-05-10,22:45,14:00,€ 411 
+Meerdere maatschappijen,TLV,BKK,33u 40m ,3 stops ,2023-05-10,18:50,8:30,€ 405 
+Etihad Airways,TLV,BKK,14u 00m ,1 stop ,2023-05-10,14:20,8:20,€ 414 
+Emirates,TLV,BKK,12u 40m ,1 stop ,2023-05-10,19:35,12:15,€ 542 
+Royal Jordanian,TLV,BKK,16u 05m ,1 stop ,2023-05-10,19:10,15:15,€ 418 
+Emirates,TLV,BKK,13u 10m ,1 stop ,2023-05-10,1:45,18:55,€ 461 
+Emirates,TLV,BKK,14u 50m ,1 stop ,2023-05-10,12:45,7:35,€ 461 
+Emirates,TLV,BKK,14u 10m ,1 stop ,2023-05-10,13:25,7:35,€ 501 
+Emirates,TLV,BKK,13u 20m ,1 stop ,2023-05-10,19:35,12:55,€ 533 
+Emirates,TLV,BKK,15u 00m ,1 stop ,2023-05-10,23:55,18:55,€ 461 
+Emirates,TLV,BKK,16u 35m ,1 stop ,2023-05-10,11:00,7:35,€ 501 
+Turkish Airlines,TLV,BKK,14u 15m ,1 stop ,2023-05-10,12:05,6:20,€ 702 
+Emirates,TLV,BKK,19u 30m ,1 stop ,2023-05-10,12:45,12:15,€ 461 
+Emirates,TLV,BKK,20u 10m ,1 stop ,2023-05-10,12:45,12:55,€ 461 
+Emirates,TLV,BKK,18u 50m ,1 stop ,2023-05-10,13:25,12:15,€ 501 
+Emirates,TLV,BKK,19u 30m ,1 stop ,2023-05-10,13:25,12:55,€ 501 
+Emirates,TLV,BKK,12u 40m ,1 stop ,2023-05-21,19:35,12:15,€ 475 
+EL AL,TLV,BKK,11u 15m ,direct ,2023-05-21,22:45,14:00,€ 410 
+"Arkia, Scoot",TLV,BKK,31u 10m ,2 stops ,2023-05-21,7:50,19:00,€ 368 
+"Arkia, Scoot",TLV,BKK,20u 40m ,2 stops ,2023-05-21,7:50,8:30,€ 380 
+Etihad Airways,TLV,BKK,14u 00m ,1 stop ,2023-05-21,14:20,8:20,€ 414 
+Emirates,TLV,BKK,12u 40m ,1 stop ,2023-05-21,19:35,12:15,€ 459 
+Emirates,TLV,BKK,13u 20m ,1 stop ,2023-05-21,19:35,12:55,€ 459 
+Air India,TLV,BKK,17u 25m ,1 stop ,2023-05-21,22:10,19:35,€ 445 
+Emirates,TLV,BKK,14u 50m ,1 stop ,2023-05-21,12:45,7:35,€ 459 
+Emirates,TLV,BKK,19u 20m ,1 stop ,2023-05-21,19:35,18:55,€ 459 
+Cathay Pacific,TLV,BKK,15u 25m ,1 stop ,2023-05-21,14:35,10:00,€ 506 
+Cathay Pacific,TLV,BKK,16u 55m ,1 stop ,2023-05-21,14:35,11:30,€ 506 
+"EL AL, Scoot",TLV,BKK,21u 30m ,2 stops ,2023-05-21,7:00,8:30,€ 418 
+"BlueBird Airways, Scoot",TLV,BKK,20u 10m ,2 stops ,2023-05-21,8:20,8:30,€ 435 
+Emirates,TLV,BKK,19u 30m ,1 stop ,2023-05-21,12:45,12:15,€ 459 
+Emirates,TLV,BKK,20u 10m ,1 stop ,2023-05-21,12:45,12:55,€ 459 
+Emirates,TLV,BKK,26u 10m ,1 stop ,2023-05-21,12:45,18:55,€ 464 
+Emirates,TLV,BKK,13u 20m ,1 stop ,2023-05-22,19:35,12:55,€ 475 
+EL AL,TLV,BKK,11u 15m ,direct ,2023-05-22,22:45,14:00,€ 410 
+Gulf Air,TLV,BKK,20u 10m ,1 stop ,2023-05-22,9:20,9:30,€ 386 
+Etihad Airways,TLV,BKK,13u 50m ,1 stop ,2023-05-22,14:30,8:20,€ 414 
+Royal Jordanian,TLV,BKK,16u 05m ,1 stop ,2023-05-22,19:10,15:15,€ 418 
+Emirates,TLV,BKK,13u 20m ,1 stop ,2023-05-22,19:35,12:55,€ 459 
+Emirates,TLV,BKK,14u 50m ,1 stop ,2023-05-22,12:45,7:35,€ 459 
+Royal Jordanian,TLV,BKK,26u 50m ,1 stop ,2023-05-22,8:25,15:15,€ 418 
+Emirates,TLV,BKK,19u 20m ,1 stop ,2023-05-22,19:35,18:55,€ 459 
+Emirates,TLV,BKK,20u 10m ,1 stop ,2023-05-22,12:45,12:55,€ 459 
+Ethiopian Air,TLV,BKK,23u 15m ,1 stop ,2023-05-22,10:00,13:15,€ 486 
+Emirates,TLV,BKK,12u 40m ,1 stop ,2023-05-22,19:35,12:15,€ 540 
+Turkish Airlines,TLV,BKK,14u 15m ,1 stop ,2023-05-22,12:05,6:20,€ 700 
+Emirates,TLV,BKK,26u 10m ,1 stop ,2023-05-22,12:45,18:55,€ 464 
+"Arkia, Qatar Airways",TLV,BKK,24u 10m ,2 stops ,2023-05-22,9:00,13:10,€ 521 
+"Royal Jordanian, Qatar Airways",TLV,BKK,14u 20m ,2 stops ,2023-05-22,0:35,18:55,€ 527 
+Emirates,TLV,BKK,12u 40m ,1 stop ,2023-05-23,19:35,12:15,€ 475 
+EL AL,TLV,BKK,11u 15m ,direct ,2023-05-23,22:45,14:00,€ 413 
+Gulf Air,TLV,BKK,17u 55m ,2 stops ,2023-05-23,17:40,15:35,€ 383 
+Etihad Airways,TLV,BKK,14u 00m ,1 stop ,2023-05-23,14:20,8:20,€ 414 
+Royal Jordanian,TLV,BKK,10u 40m ,1 stop ,2023-05-23,0:35,15:15,€ 418 
+Emirates,TLV,BKK,12u 40m ,1 stop ,2023-05-23,19:35,12:15,€ 464 
+Air India,TLV,BKK,17u 25m ,1 stop ,2023-05-23,22:10,19:35,€ 445 
+Emirates,TLV,BKK,14u 50m ,1 stop ,2023-05-23,12:45,7:35,€ 464 
+Thai Airways,TLV,BKK,11u 25m ,direct ,2023-05-23,22:35,14:00,€ 628 
+Emirates,TLV,BKK,13u 20m ,1 stop ,2023-05-23,19:35,12:55,€ 464 
+Emirates,TLV,BKK,19u 20m ,1 stop ,2023-05-23,19:35,18:55,€ 464 
+Emirates,TLV,BKK,19u 30m ,1 stop ,2023-05-23,12:45,12:15,€ 464 
+Emirates,TLV,BKK,20u 10m ,1 stop ,2023-05-23,12:45,12:55,€ 464 
+Ethiopian Air,TLV,BKK,16u 25m ,1 stop ,2023-05-23,15:35,12:00,€ 486 
+Cathay Pacific,TLV,BKK,15u 25m ,1 stop ,2023-05-23,14:35,10:00,€ 512 
+Cathay Pacific,TLV,BKK,16u 55m ,1 stop ,2023-05-23,14:35,11:30,€ 512 
+Emirates,TLV,BKK,13u 20m ,1 stop ,2023-05-24,19:35,12:55,€ 475 
+EL AL,TLV,BKK,11u 25m ,direct ,2023-05-24,22:35,14:00,€ 410 
+Etihad Airways,TLV,BKK,14u 00m ,1 stop ,2023-05-24,14:20,8:20,€ 414 
+Emirates,TLV,BKK,12u 40m ,1 stop ,2023-05-24,19:35,12:15,€ 460 
+Thai Airways,TLV,BKK,11u 25m ,direct ,2023-05-24,22:35,14:00,€ 628 
+Royal Jordanian,TLV,BKK,16u 05m ,1 stop ,2023-05-24,19:10,15:15,€ 418 
+Emirates,TLV,BKK,13u 20m ,1 stop ,2023-05-24,19:35,12:55,€ 460 
+Emirates,TLV,BKK,14u 50m ,1 stop ,2023-05-24,12:45,7:35,€ 460 
+"EL AL, Bangkok Airways",TLV,BKK,15u 30m ,1 stop ,2023-05-24,23:30,19:00,€ 564 
+Emirates,TLV,BKK,19u 20m ,1 stop ,2023-05-24,19:35,18:55,€ 460 
+Emirates,TLV,BKK,19u 30m ,1 stop ,2023-05-24,12:45,12:15,€ 460 
+Emirates,TLV,BKK,20u 10m ,1 stop ,2023-05-24,12:45,12:55,€ 460 
+Ethiopian Air,TLV,BKK,23u 15m ,1 stop ,2023-05-24,10:00,13:15,€ 486 
+"Royal Jordanian, Qatar Airways",TLV,BKK,17u 50m ,2 stops ,2023-05-24,8:25,6:15,€ 531 
+"Pegasus Airlines, Qatar Airways",TLV,BKK,19u 20m ,2 stops ,2023-05-24,6:55,6:15,€ 538 
+"EL AL, Singapore Airlines",TLV,BKK,17u 20m ,2 stops ,2023-05-24,13:40,11:00,€ 550 
+Emirates,TLV,BKK,12u 40m ,1 stop ,2023-05-25,19:35,12:15,€ 475 
+Etihad Airways,TLV,BKK,13u 20m ,1 stop ,2023-05-25,15:00,8:20,€ 437 
+Royal Jordanian,TLV,BKK,10u 40m ,1 stop ,2023-05-25,0:35,15:15,€ 444 
+Emirates,TLV,BKK,12u 40m ,1 stop ,2023-05-25,19:35,12:15,€ 475 
+Emirates,TLV,BKK,14u 50m ,1 stop ,2023-05-25,12:45,7:35,€ 475 
+Emirates,TLV,BKK,13u 20m ,1 stop ,2023-05-25,19:35,12:55,€ 475 
+Emirates,TLV,BKK,19u 20m ,1 stop ,2023-05-25,19:35,18:55,€ 475 
+Ethiopian Air,TLV,BKK,16u 25m ,1 stop ,2023-05-25,15:35,12:00,€ 504 
+Cathay Pacific,TLV,BKK,15u 25m ,1 stop ,2023-05-25,14:35,10:00,€ 527 
+Emirates,TLV,BKK,19u 30m ,1 stop ,2023-05-25,12:45,12:15,€ 475 
+Emirates,TLV,BKK,20u 10m ,1 stop ,2023-05-25,12:45,12:55,€ 475 
+Cathay Pacific,TLV,BKK,16u 55m ,1 stop ,2023-05-25,14:35,11:30,€ 527 
+Emirates,TLV,BKK,26u 10m ,1 stop ,2023-05-25,12:45,18:55,€ 475 
+Emirates,TLV,BKK,32u 00m ,1 stop ,2023-05-25,19:35,7:35,€ 475 
+Ethiopian Air,TLV,BKK,31u 00m ,1 stop ,2023-05-25,1:00,12:00,€ 504 
+Cathay Pacific,TLV,BKK,21u 55m ,1 stop ,2023-05-25,14:35,16:30,€ 527 
+Emirates,TLV,BKK,13u 20m ,1 stop ,2023-05-26,19:35,12:55,€ 475 
+Etihad Airways,TLV,BKK,14u 00m ,1 stop ,2023-05-26,14:20,8:20,€ 437 
+Emirates,TLV,BKK,13u 20m ,1 stop ,2023-05-26,19:35,12:55,€ 475 
+Royal Jordanian,TLV,BKK,16u 05m ,1 stop ,2023-05-26,19:10,15:15,€ 444 
+Emirates,TLV,BKK,13u 10m ,1 stop ,2023-05-26,1:45,18:55,€ 475 
+Emirates,TLV,BKK,14u 50m ,1 stop ,2023-05-26,12:45,7:35,€ 475 
+Emirates,TLV,BKK,15u 00m ,1 stop ,2023-05-26,23:55,18:55,€ 475 
+Emirates,TLV,BKK,14u 10m ,1 stop ,2023-05-26,13:25,7:35,€ 517 
+Emirates,TLV,BKK,12u 40m ,1 stop ,2023-05-26,19:35,12:15,€ 559 
+Emirates,TLV,BKK,19u 20m ,1 stop ,2023-05-26,19:35,18:55,€ 475 
+Emirates,TLV,BKK,19u 30m ,1 stop ,2023-05-26,12:45,12:15,€ 475 
+Emirates,TLV,BKK,20u 10m ,1 stop ,2023-05-26,12:45,12:55,€ 475 
+Emirates,TLV,BKK,25u 50m ,1 stop ,2023-05-26,1:45,7:35,€ 475 
+Ethiopian Air,TLV,BKK,23u 15m ,1 stop ,2023-05-26,10:00,13:15,€ 504 
+Emirates,TLV,BKK,16u 35m ,1 stop ,2023-05-26,11:00,7:35,€ 517 
+Emirates,TLV,BKK,18u 50m ,1 stop ,2023-05-26,13:25,12:15,€ 517 
+Emirates,TLV,BKK,12u 40m ,1 stop ,2023-05-27,19:35,12:15,€ 475 
+Etihad Airways,TLV,BKK,14u 00m ,1 stop ,2023-05-27,14:20,8:20,€ 437 
+EL AL,TLV,BKK,11u 15m ,direct ,2023-05-27,22:45,14:00,€ 456 
+Royal Jordanian,TLV,BKK,10u 40m ,1 stop ,2023-05-27,0:35,15:15,€ 444 
+Emirates,TLV,BKK,12u 40m ,1 stop ,2023-05-27,19:35,12:15,€ 475 
+Thai Airways,TLV,BKK,11u 15m ,direct ,2023-05-27,22:45,14:00,€ 727 
+Emirates,TLV,BKK,13u 10m ,1 stop ,2023-05-27,1:45,18:55,€ 475 
+Emirates,TLV,BKK,13u 20m ,1 stop ,2023-05-27,19:35,12:55,€ 475 
+Emirates,TLV,BKK,14u 50m ,1 stop ,2023-05-27,12:45,7:35,€ 475 
+Air India,TLV,BKK,17u 25m ,1 stop ,2023-05-27,22:10,19:35,€ 461 
+Emirates,TLV,BKK,15u 00m ,1 stop ,2023-05-27,23:55,18:55,€ 475 
+Emirates,TLV,BKK,19u 20m ,1 stop ,2023-05-27,19:35,18:55,€ 475 
+Emirates,TLV,BKK,19u 30m ,1 stop ,2023-05-27,12:45,12:15,€ 475 
+Emirates,TLV,BKK,20u 10m ,1 stop ,2023-05-27,12:45,12:55,€ 475 
+Emirates,TLV,BKK,26u 10m ,1 stop ,2023-05-27,12:45,18:55,€ 475 
+Emirates,TLV,BKK,30u 30m ,1 stop ,2023-05-27,1:45,12:15,€ 475 
+Emirates,TLV,BKK,12u 40m ,1 stop ,2023-05-28,19:35,12:15,€ 475 
+EL AL,TLV,BKK,11u 15m ,direct ,2023-05-28,22:45,14:00,€ 413 
+"BlueBird Airways, Scoot",TLV,BKK,20u 10m ,2 stops ,2023-05-28,8:20,8:30,€ 359 
+Etihad Airways,TLV,BKK,14u 00m ,1 stop ,2023-05-28,14:20,8:20,€ 380 
+"BlueBird Airways, Scoot",TLV,BKK,21u 30m ,2 stops ,2023-05-28,8:20,9:50,€ 359 
+Emirates,TLV,BKK,12u 40m ,1 stop ,2023-05-28,19:35,12:15,€ 463 
+Emirates,TLV,BKK,13u 20m ,1 stop ,2023-05-28,19:35,12:55,€ 463 
+Emirates,TLV,BKK,14u 50m ,1 stop ,2023-05-28,12:45,7:35,€ 463 
+Thai Airways,TLV,BKK,11u 25m ,direct ,2023-05-28,22:35,14:00,€ 628 
+"Hahn Air Systems, Scoot",TLV,BKK,20u 10m ,2 stops ,2023-05-28,8:20,8:30,€ 392 
+Air India,TLV,BKK,17u 25m ,1 stop ,2023-05-28,22:10,19:35,€ 445 
+Emirates,TLV,BKK,19u 20m ,1 stop ,2023-05-28,19:35,18:55,€ 463 
+Emirates,TLV,BKK,19u 30m ,1 stop ,2023-05-28,12:45,12:15,€ 463 
+Emirates,TLV,BKK,20u 10m ,1 stop ,2023-05-28,12:45,12:55,€ 463 
+Emirates,TLV,BKK,15u 00m ,1 stop ,2023-05-28,23:55,18:55,€ 465 
+Emirates,TLV,BKK,13u 10m ,1 stop ,2023-05-28,1:45,18:55,€ 507 
+Emirates,TLV,BKK,12u 40m ,1 stop ,2023-05-29,19:35,12:15,€ 475 
+EL AL,TLV,BKK,11u 15m ,direct ,2023-05-29,22:45,14:00,€ 408 
+Meerdere maatschappijen,TLV,BKK,42u 05m ,3 stops ,2023-05-29,20:55,19:00,€ 319 
+Gulf Air,TLV,BKK,20u 10m ,1 stop ,2023-05-29,9:20,9:30,€ 376 
+Etihad Airways,TLV,BKK,13u 50m ,1 stop ,2023-05-29,14:30,8:20,€ 414 
+Royal Jordanian,TLV,BKK,16u 05m ,1 stop ,2023-05-29,19:10,15:15,€ 418 
+Emirates,TLV,BKK,12u 40m ,1 stop ,2023-05-29,19:35,12:15,€ 458 
+Emirates,TLV,BKK,13u 20m ,1 stop ,2023-05-29,19:35,12:55,€ 458 
+Thai Airways,TLV,BKK,11u 25m ,direct ,2023-05-29,22:35,14:00,€ 628 
+Royal Jordanian,TLV,BKK,26u 50m ,1 stop ,2023-05-29,8:25,15:15,€ 418 
+Emirates,TLV,BKK,14u 50m ,1 stop ,2023-05-29,12:45,7:35,€ 458 
+Emirates,TLV,BKK,19u 20m ,1 stop ,2023-05-29,19:35,18:55,€ 458 
+Emirates,TLV,BKK,19u 30m ,1 stop ,2023-05-29,12:45,12:15,€ 458 
+Emirates,TLV,BKK,13u 10m ,1 stop ,2023-05-29,1:45,18:55,€ 465 
+Emirates,TLV,BKK,15u 00m ,1 stop ,2023-05-29,23:55,18:55,€ 465 
+Emirates,TLV,BKK,20u 10m ,1 stop ,2023-05-29,12:45,12:55,€ 458 
+Ethiopian Air,TLV,BKK,23u 15m ,1 stop ,2023-05-29,10:00,13:15,€ 486 
+Emirates,TLV,BKK,12u 40m ,1 stop ,2023-05-30,19:35,12:15,€ 475 
+EL AL,TLV,BKK,11u 25m ,direct ,2023-05-30,22:35,14:00,€ 413 
+"Arkia, Scoot",TLV,BKK,32u 00m ,2 stops ,2023-05-30,7:00,19:00,€ 349 
+Royal Jordanian,TLV,BKK,10u 40m ,1 stop ,2023-05-30,0:35,15:15,€ 418 
+Gulf Air,TLV,BKK,17u 55m ,2 stops ,2023-05-30,17:40,15:35,€ 383 
+Etihad Airways,TLV,BKK,14u 00m ,1 stop ,2023-05-30,14:20,8:20,€ 414 
+Emirates,TLV,BKK,12u 40m ,1 stop ,2023-05-30,19:35,12:15,€ 465 
+Emirates,TLV,BKK,13u 10m ,1 stop ,2023-05-30,1:45,18:55,€ 465 
+Emirates,TLV,BKK,13u 20m ,1 stop ,2023-05-30,19:35,12:55,€ 465 
+Meerdere maatschappijen,TLV,BKK,14u 05m ,2 stops ,2023-05-30,13:40,7:45,€ 440 
+Air India,TLV,BKK,17u 25m ,1 stop ,2023-05-30,22:10,19:35,€ 445 
+Emirates,TLV,BKK,14u 50m ,1 stop ,2023-05-30,12:45,7:35,€ 465 
+Emirates,TLV,BKK,15u 00m ,1 stop ,2023-05-30,23:55,18:55,€ 465 
+Emirates,TLV,BKK,19u 20m ,1 stop ,2023-05-30,19:35,18:55,€ 465 
+Emirates,TLV,BKK,19u 30m ,1 stop ,2023-05-30,12:45,12:15,€ 465 
+Emirates,TLV,BKK,20u 10m ,1 stop ,2023-05-30,12:45,12:55,€ 465 
+Ethiopian Air,TLV,BKK,16u 25m ,1 stop ,2023-05-30,15:35,12:00,€ 486 
+Emirates,TLV,BKK,12u 55m ,1 stop ,2023-05-31,19:35,12:30,€ 475 
+EL AL,TLV,BKK,11u 15m ,direct ,2023-05-31,22:45,14:00,€ 409 
+Meerdere maatschappijen,TLV,BKK,38u 20m ,2 stops ,2023-05-31,10:10,4:30,€ 312 
+Etihad Airways,TLV,BKK,14u 00m ,1 stop ,2023-05-31,14:20,8:20,€ 380 
+Emirates,TLV,BKK,12u 55m ,1 stop ,2023-05-31,19:35,12:30,€ 459 
+Emirates,TLV,BKK,13u 45m ,1 stop ,2023-05-31,19:35,13:20,€ 459 
+Royal Jordanian,TLV,BKK,16u 05m ,1 stop ,2023-05-31,19:10,15:15,€ 418 
+Emirates,TLV,BKK,13u 10m ,1 stop ,2023-05-31,1:45,18:55,€ 459 
+Emirates,TLV,BKK,14u 50m ,1 stop ,2023-05-31,12:45,7:35,€ 459 
+Thai Airways,TLV,BKK,11u 25m ,direct ,2023-05-31,22:35,14:00,€ 628 
+Emirates,TLV,BKK,15u 20m ,1 stop ,2023-05-31,23:55,19:15,€ 459 
+Emirates,TLV,BKK,19u 40m ,1 stop ,2023-05-31,19:35,19:15,€ 459 
+Emirates,TLV,BKK,14u 10m ,1 stop ,2023-05-31,13:25,7:35,€ 540 
+Emirates,TLV,BKK,16u 35m ,1 stop ,2023-05-31,11:00,7:35,€ 540 
+Emirates,TLV,BKK,19u 45m ,1 stop ,2023-05-31,12:45,12:30,€ 459 
+Emirates,TLV,BKK,20u 35m ,1 stop ,2023-05-31,12:45,13:20,€ 459 
+Ethiopian Air,TLV,BKK,23u 15m ,1 stop ,2023-05-31,10:00,13:15,€ 486 
+Emirates,TLV,BKK,12u 55m ,1 stop ,2023-06-01,19:35,12:30,€ 475 
+EL AL,TLV,BKK,11u 25m ,direct ,2023-06-01,22:35,14:00,€ 413 
+Meerdere maatschappijen,TLV,BKK,38u 20m ,2 stops ,2023-06-01,10:10,4:30,€ 317 
+Etihad Airways,TLV,BKK,13u 20m ,1 stop ,2023-06-01,15:00,8:20,€ 414 
+Royal Jordanian,TLV,BKK,10u 40m ,1 stop ,2023-06-01,0:35,15:15,€ 418 
+Emirates,TLV,BKK,12u 55m ,1 stop ,2023-06-01,19:35,12:30,€ 464 
+Emirates,TLV,BKK,13u 45m ,1 stop ,2023-06-01,19:35,13:20,€ 464 
+Emirates,TLV,BKK,13u 30m ,1 stop ,2023-06-01,1:45,19:15,€ 464 
+Emirates,TLV,BKK,14u 10m ,1 stop ,2023-06-01,13:25,7:35,€ 464 
+Emirates,TLV,BKK,14u 50m ,1 stop ,2023-06-01,12:45,7:35,€ 464 
+Cathay Pacific,TLV,BKK,15u 25m ,1 stop ,2023-06-01,14:35,10:00,€ 511 
+Thai Airways,TLV,BKK,11u 25m ,direct ,2023-06-01,22:35,14:00,€ 628 
+Gulf Air,TLV,BKK,19u 15m ,2 stops ,2023-06-01,16:20,15:35,€ 456 
+Emirates,TLV,BKK,15u 20m ,1 stop ,2023-06-01,23:55,19:15,€ 464 
+Emirates,TLV,BKK,16u 35m ,1 stop ,2023-06-01,11:00,7:35,€ 464 
+Ethiopian Air,TLV,BKK,16u 25m ,1 stop ,2023-06-01,15:35,12:00,€ 486 
+Cathay Pacific,TLV,BKK,16u 55m ,1 stop ,2023-06-01,14:35,11:30,€ 511 
