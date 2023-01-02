@@ -32,6 +32,12 @@ After scraping the data, I needed to clean it up so that it was usable for our m
 # EDA
 I looked at the distributions of the data and the value counts for the various categorical variables
 
+
+![alt text](https://github.com/TeveTc20/ds_fligh_proj/images/blob/master/airline_price.PNG "Airlines by Price")
+![alt text](https://github.com/TeveTc20/ds_fligh_proj/images/blob/master/totalStops_price.PNG "Total stops by Price")
+![alt text](https://github.com/TeveTc20/ds_fligh_proj/images/blob/master/heatmap_dfcorr.PNG "Correlation")
+
+
 # Model Building
 First, I transformed the categorical variables into dummy variables. I also split the data into train and tests sets with a test size of 33%.
 
