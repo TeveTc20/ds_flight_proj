@@ -33,9 +33,9 @@ After scraping the data, I needed to clean it up so that it was usable for our m
 I looked at the distributions of the data and the value counts for the various categorical variables
 
 
-![alt text](https://github.com/TeveTc20/ds_fligh_proj/images/blob/master/airline_price.PNG "Airlines by Price")
-![alt text](https://github.com/TeveTc20/ds_fligh_proj/images/blob/master/totalStops_price.PNG "Total stops by Price")
-![alt text](https://github.com/TeveTc20/ds_fligh_proj/images/blob/master/heatmap_dfcorr.PNG "Correlation")
+![alt text](https://github.com/TeveTc20/ds_fligh_proj/images/master/airline_price.PNG "Airlines by Price")
+![alt text](https://github.com/TeveTc20/ds_fligh_proj/images/master/totalStops_price.PNG "Total stops by Price")
+![alt text](https://github.com/TeveTc20/ds_fligh_proj/images/master/heatmap_dfcorr.PNG "Correlation")
 
 
 # Model Building
